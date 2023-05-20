@@ -1,8 +1,15 @@
-# Improved prediction of salmon runs using historical salmon and weather data to enhance business planning and resource allocation
+# 🐟 Improved prediction of salmon runs using historical salmon and weather data to enhance business planning and resource allocation
  Team 55's group project GitHub repository for MGT 6203 (Canvas) Spring of 2023 semester.
  
  ## Quick Link
- [:bar_chart: SEE VISUALIZATION HERE ](https://public.tableau.com/app/profile/binh.vu5742/viz/Visualization_16835996323470/MainDashboard)
+ [🖥️ VIDEO PRESENTATION ](https://www.youtube.com/watch?v=AAObhweJ6dE)
+ 
+ [:bookmark_tabs: POWERPOINT PRESENTATION](https://github.com/binhvu3/Salmon-Analysis/blob/main/Final%20Presentation%20Slides/Project%20Report%20Video%20Presentation.pdf)
+ 
+  [ 📄 WRITTEN REPORT]( https://github.com/binhvu3/Salmon-Analysis/blob/main/Final%20Report/Salmon%20Prediction%20Final%20Project%20Team%2055.pdf)
+
+
+
 
 ## Repository Structure
 Description of relevant folders
@@ -24,13 +31,13 @@ Description of relevant folders
 - **Visualizations**: Key visualizations for our analysis
 - requirements_python.txt & requirements_r.txt: Contains the python and R packages used in this project
 
- # Opening Jupyter Notebook
+ # 📔 Opening Jupyter Notebook
  In order to run Jupyter Notebook that is found in this Repo, please install Jupyter Notebook with R kernel. (Steps are below)
 
-## Installation of Jupyter Notebook
+## 🔨 Installation of Jupyter Notebook
 You can find the installation documentation for the [Jupyter platform, on ReadTheDocs](https://jupyter.readthedocs.io/en/latest/install.html). 
 
-## Install R kernel for Jupyter Notebook
+## 🔨 Install R kernel for Jupyter Notebook
 [More Info](https://stackoverflow.com/questions/57870575/install-and-run-r-kernel-for-jupyter-notebook)
 
 Open any R session (e.g. in RStudio is fine, or open terminal/bash and type R to start an R session). 
@@ -44,7 +51,7 @@ IRkernel::installspec()
 
 ```
 
-## Run Jupyter Notebook with R kernel
+## 📟 Run Jupyter Notebook with R kernel
 Launch with:
 
 ```bash
@@ -57,7 +64,7 @@ You need to confirm that R kernel is running. If not, check the top menu
 ```bash
 Top Menu > Kernel > Change kernel > R 
 ```
-# GUI Application using Python
+# 📟 GUI Application using Python
 This project is a GUI application that utilizes the Tkinter library to create a user interface for data analysis. The application uses the pandas, numpy, and sklearn.linear_model libraries for data manipulation and linear regression analysis.
 
 ## Getting Started
