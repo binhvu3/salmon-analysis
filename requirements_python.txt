@@ -1,0 +1,6 @@
+tkinter
+pandas
+sklearn
+numpy
+datetime
+os

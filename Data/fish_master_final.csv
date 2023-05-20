@@ -1,0 +1,477 @@
+date,year_x,fish_count,precipitation,air_temp,stage,discharge,water_temp,luna,moon_phase,set_location,drift_location,nets
+7/1/2022,2022,5034,0,57.5,9.92,15000,59.72,3,New Moon,None,None,no_nets
+7/2/2022,2022,4212,0,56.5,10.02,15200,59,4,New Moon,None,Kasilof Section,drift
+7/3/2022,2022,5796,0,58.5,10.04,15300,57.2,5,New Moon,None,None,no_nets
+7/4/2022,2022,7314,0,57.5,10.08,15300,56.84,6,New Moon,None,District Wide except Chinitna Bay Sub,drift
+7/5/2022,2022,7386,0,55.5,10.03,15200,57.02,7,New Moon,None,None,no_nets
+7/6/2022,2022,10341,0,57.5,10.02,15100,56.84,10,First Quarter,None,Drift Area 1,drift
+7/7/2022,2022,12973,0.05,56.5,10.02,15200,58.1,11,First Quarter,Kasilof Section - NKB 600ft,District Wide except Chinitna Bay Sub,both
+7/8/2022,2022,13884,0,61.5,10.08,15400,57.74,12,First Quarter,None,None,no_nets
+7/9/2022,2022,13992,0,61,10.24,16000,57.2,13,First Quarter,None,None,no_nets
+7/10/2022,2022,21424,0,54.5,10.33,16500,56.84,14,First Quarter,None,None,no_nets
+7/11/2022,2022,20597,0,59.5,10.33,16800,57.2,15,First Quarter,"Kenai, Kasilof, & East Forelands Sections","Drift Area 1, Ex Ken/Kas Sec",both
+7/12/2022,2022,8094,0,59,10.41,17400,57.74,16,First Quarter,None,None,no_nets
+7/13/2022,2022,9636,0.01,55.5,10.5,17800,56.66,20,Full Moon,None,Expanded Kenai & Kasilof Sections,drift
+7/14/2022,2022,5556,0.07,57.5,10.53,17900,56.66,21,Full Moon,"Kenai, Kasilof, & East Forelands Sections",Expanded Kenai & Kasilof Sections,both
+7/15/2022,2022,5225,0.29,53.5,10.49,17700,56.3,22,Full Moon,None,"Drift Area 1, Ex Ken/Kas Sec",drift
+7/16/2022,2022,18780,0.76,56.5,10.45,17700,56.12,23,Full Moon,None,None,no_nets
+7/17/2022,2022,45558,0.41,54.5,10.51,17900,55.22,24,Full Moon,None,None,no_nets
+7/18/2022,2022,39697,0.04,57.5,10.46,17600,53.6,25,Full Moon,None,"Drift Area 1, Exp. Ken/Kas, & Anchor Pt.",drift
+7/19/2022,2022,74328,0.07,52,10.51,17300,52.52,26,Full Moon,None,"Exp. Ken/Kas, & Anchor Pt.",drift
+7/20/2022,2022,189420,0.07,53,10.41,17300,53.6,30,Third Quarter,None,"Exp. Ken/Kas, & Anchor Pt.",drift
+7/21/2022,2022,155774,0.1,54,10.39,17100,53.6,31,Third Quarter,None,"Exp. Ken/Kas, & Anchor Pt.",drift
+7/22/2022,2022,99324,0,52.5,10.38,16800,53.96,32,Third Quarter,None,"Exp. Ken/Kas, & Anchor Pt.",drift
+7/23/2022,2022,79950,0.04,48.5,10.27,16500,53.42,33,Third Quarter,None,"Exp. Ken/Kas, & Anchor Pt.",drift
+7/24/2022,2022,101376,0.08,59,10.23,16000,54.86,34,Third Quarter,None,"Exp. Ken/Kas, & Anchor Pt.",drift
+7/25/2022,2022,54139,0.12,57,10.22,15900,55.4,35,Third Quarter,None,"Drift Area 1, Exp. Ken/Kas, & Anchor Pt.",drift
+7/26/2022,2022,44166,0,50.5,10.19,15900,52.16,36,Third Quarter,None,"Exp. Ken/Kas, & Anchor Pt.",drift
+7/27/2022,2022,56110,0,51,10.05,15500,51.98,37,Third Quarter,None,"Exp. Ken/Kas, & Anchor Pt.",drift
+7/28/2022,2022,32859,0,57,9.915,15100,53.42,0,New Moon,None,"Exp. Ken/Kas, & Anchor Pt.",drift
+7/29/2022,2022,24474,0.025,56.5,9.8475,14800,54.14,1,New Moon,None,"Exp. Ken/Kas, & Anchor Pt.",drift
+7/30/2022,2022,24594,0.05,57.5,9.78,14600,55.58,2,New Moon,None,"Exp. Ken/Kas, & Anchor Pt.",drift
+7/31/2022,2022,16902,0,57,9.48,14400,56.84,3,New Moon,None,"Exp. Ken/Kas, & Anchor Pt.",drift
+8/1/2022,2022,31619,0.12,53,9.48,14100,55.94,4,New Moon,None,"Drift Area 1, Exp. Ken/Kas, & Anchor Pt.",drift
+8/2/2022,2022,36152,0.06,52,9.41,14000,54.68,5,New Moon,None,None,no_nets
+8/3/2022,2022,21493,0,54.5,9.33,13700,55.04,6,New Moon,None,None,no_nets
+8/4/2022,2022,26351,0.015,54,9.17,13600,56.3,7,New Moon,None,"Drift Area 1, Exp. Ken/Kas, & Anchor Pt.",drift
+8/5/2022,2022,29960,0.03,56,9.12,13500,58.28,10,First Quarter,None,None,no_nets
+8/6/2022,2022,19915,0,57,9.23,13400,55.76,11,First Quarter,None,None,no_nets
+8/7/2022,2022,23752,0.01,53,9.2,13300,54.68,12,First Quarter,None,None,no_nets
+8/8/2022,2022,21717,0.02,54,9.17,13200,54.14,13,First Quarter,None,"Drift Area 1, Exp. Ken/Kas, & Anchor Pt.",drift
+8/9/2022,2022,25924,0,52,9.2,13100,53.78,14,First Quarter,None,None,no_nets
+8/10/2022,2022,21212,0,56.5,9.18,12900,54.32,15,First Quarter,None,None,no_nets
+8/11/2022,2022,26198,0.22,56.5,9.14,12900,55.22,20,Full Moon,None,"Drift Area 1, Exp. Ken/Kas, & Anchor Pt.",drift
+8/12/2022,2022,26817,0.11,57.5,9.32,13500,54.5,21,Full Moon,None,None,no_nets
+8/13/2022,2022,17310,0.2,56,9.42,14100,53.78,22,Full Moon,None,None,no_nets
+8/14/2022,2022,6190,0.01,56,9.53,14700,54.14,23,Full Moon,None,None,no_nets
+8/15/2022,2022,12872,0.31,57,9.99,15300,54.32,24,Full Moon,None,Drift Areas 3 & 4,drift
+8/16/2022,2022,11353,0.33,56,10.09,15900,54.5,25,Full Moon,None,None,no_nets
+7/1/2021,2021,7248,0.01,53,9.28,14000,48.2,30,Third Quarter,All except Kenai & E. Forelands Sections,All,both
+7/2/2021,2021,6476,0.02,58.5,9.39,14400,51.08,31,Third Quarter,None,None,no_nets
+7/3/2021,2021,6430,0,52,9.44,14400,48.92,32,Third Quarter,Kasilof Section - NKB 600ft,Kasilof Section,both
+7/4/2021,2021,6685,0,56,9.35,14300,48.38,33,Third Quarter,None,None,no_nets
+7/5/2021,2021,6122,0.04,50.5,9.17,14100,47.66,34,Third Quarter,Kasilof Section - NKB 600ft,All,both
+7/6/2021,2021,11298,0.01,53.5,9.33,14100,49.46,35,Third Quarter,Kasilof Section - NKB 600ft,Kasilof Section,both
+7/7/2021,2021,9182,0,52.5,9.23,13900,49.1,36,Third Quarter,Kasilof Section - NKB 600ft,Kasilof Section,both
+7/8/2021,2021,14040,0.01,49,9.05,13600,47.84,37,Third Quarter,Upper Subdistrict,Kasilof Section,both
+7/9/2021,2021,10655,0.03,53.5,9.04,13400,49.28,0,New Moon,None,None,no_nets
+7/10/2021,2021,10842,0.14,53,8.99,13200,49.46,1,New Moon,None,None,no_nets
+7/11/2021,2021,13986,0.01,58.5,8.92,12900,49.28,2,New Moon,None,None,no_nets
+7/12/2021,2021,16461,0.01,56,8.91,12800,49.46,3,New Moon,Upper Subdistrict,"Drift Area 1, Ex Ken/Kas Sec",both
+7/13/2021,2021,12738,0.05,55,8.99,12800,50.54,4,New Moon,"Kenai, Kasilof, & East Forelands Sections",Expanded Kenai & Kasilof Sections,both
+7/14/2021,2021,9852,0,52.5,8.94,12800,51.8,5,New Moon,Kasilof Section - NKB 600ft,Expanded Kenai & Kasilof Sections,both
+7/15/2021,2021,19982,0,58,8.94,12800,52.34,6,New Moon,Upper Subdistrict,"Drift Area 1, Ex Ken/Kas Sec",both
+7/16/2021,2021,14727,0,60,9.03,12900,53.24,7,New Moon,None,None,no_nets
+7/17/2021,2021,16015,0,58.5,9.17,13100,53.06,10,First Quarter,None,None,no_nets
+7/18/2021,2021,19843,0,63,9.21,13400,54.68,11,First Quarter,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+7/19/2021,2021,25731,0.055,57,9.3,13700,55.76,12,First Quarter,Kasilof River Special Harvest Area,"Drift Area 1, Ex Ken/Kas Sec",both
+7/20/2021,2021,85706,0.11,53,9.44,14200,55.04,13,First Quarter,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+7/21/2021,2021,55920,0.28,56.5,9.49,14500,54.86,14,First Quarter,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",drift
+7/22/2021,2021,32958,0.145,59.5,9.59,14800,54.32,15,First Quarter,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",drift
+7/23/2021,2021,40956,0.01,54,9.61,14800,53.78,20,Full Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",drift
+7/24/2021,2021,38526,0.09,54.5,9.52,14700,54.32,21,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/25/2021,2021,57660,0,56.5,9.48,14500,53.42,22,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/26/2021,2021,52164,0,54,9.48,14300,52.88,23,Full Moon,Kasilof River Special Harvest Area,"Drift Area 1, Ex Ken/Kas Sec",drift
+7/27/2021,2021,62633,0,53.5,9.33,14100,52.88,24,Full Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",drift
+7/28/2021,2021,58394,0,56,9.31,13900,53.24,25,Full Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",drift
+7/29/2021,2021,74864,0,53.5,9.31,13700,56.12,26,Full Moon,Kasilof River Special Harvest Area,Expanded Kenai & Kasilof Sections,drift
+7/30/2021,2021,47866,0,57,9.2,13400,53.24,27,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/31/2021,2021,77985,0,59,9.12,13100,55.4,30,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/1/2021,2021,87653,0,60,9.04,12800,55.58,31,Third Quarter,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",drift
+8/2/2021,2021,151525,0,59.5,8.95,12500,57.56,32,Third Quarter,Kasilof River Special Harvest Area,"Drift Area 1, Ex Ken/Kas Sec",drift
+8/3/2021,2021,136740,0,56,8.93,12300,58.46,33,Third Quarter,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",drift
+8/4/2021,2021,109902,0,56,8.85,12200,57.2,34,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/5/2021,2021,80538,0,55.5,8.84,12000,56.66,35,Third Quarter,Kasilof River Special Harvest Area,"Drift Area 1, Ex Ken/Kas Sec",drift
+8/6/2021,2021,80029,0,55.5,8.85,12100,56.3,36,Third Quarter,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",drift
+8/7/2021,2021,73260,0.26,49.5,8.84,12000,56.66,37,Third Quarter,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",drift
+8/8/2021,2021,89750,0.52,54.5,8.85,12100,55.22,0,New Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",drift
+8/9/2021,2021,72734,0.09,54.5,8.89,12300,53.06,1,New Moon,Kasilof River Special Harvest Area,"Drift Area 1, Ex Ken/Kas Sec",drift
+8/10/2021,2021,56226,0.21,56,8.88,12400,53.78,2,New Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",drift
+8/11/2021,2021,54827,0.04,52.5,8.92,12600,52.52,3,New Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",drift
+8/12/2021,2021,48605,0.03,55,9,12800,52.7,4,New Moon,Kasilof River Special Harvest Area,"Drift Area 1, Ex Ken/Kas Sec",drift
+8/13/2021,2021,40367,0,51.5,9.03,12800,51.44,5,New Moon,Kasilof River Special Harvest Area,None,no_nets
+8/14/2021,2021,52677,0,52.5,9.01,12800,51.44,6,New Moon,Kasilof River Special Harvest Area,None,no_nets
+8/15/2021,2021,59856,0,56,8.94,12500,51.98,10,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/16/2021,2021,55844,0.09,54,8.85,12100,52.16,11,First Quarter,Kasilof River Special Harvest Area,Drift Areas 3 & 4,drift
+8/17/2021,2021,61737,0.045,54.5,8.85,12000,53.96,12,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/18/2021,2021,41519,0,53.5,8.85,11800,53.78,13,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/19/2021,2021,41335,0,50.5,8.74,11600,53.78,14,First Quarter,Kasilof River Special Harvest Area,Drift Areas 3 & 4,drift
+8/20/2021,2021,37664,0.08,55,8.67,11300,53.6,15,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/21/2021,2021,31436,0,49.5,8.6,11100,51.26,16,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/22/2021,2021,23330,0.12,45.5,8.54,10800,51.98,20,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+8/23/2021,2021,18104,0.05,55,8.54,10700,53.06,21,Full Moon,Kasilof River Special Harvest Area,Drift Areas 3 & 4,drift
+8/24/2021,2021,12222,0.02,55.5,8.54,10800,52.7,22,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/1/2020,2020,5355,0,55.5,8.63,10900,49.82,13,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/2/2020,2020,3468,0,56.5,8.58,10800,51.26,14,First Quarter,Kasilof River Special Harvest Area,Kasilof Section,both
+7/3/2020,2020,3576,0,57.5,8.61,10800,52.52,15,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/4/2020,2020,3965,0,58,8.63,11000,54.32,20,Full Moon,Kasilof River Special Harvest Area,Kasilof Section,both
+7/5/2020,2020,4290,0,57,8.73,11200,55.94,21,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/6/2020,2020,11190,0,56.5,8.81,11500,55.76,22,Full Moon,Kasilof River Special Harvest Area,All,both
+7/7/2020,2020,15138,0,57.5,8.87,11700,53.6,23,Full Moon,Kasilof River Special Harvest Area,Kasilof Section,both
+7/8/2020,2020,12127,0.36,57,8.94,11900,53.96,24,Full Moon,Kasilof River Special Harvest Area,Kasilof Section,both
+7/9/2020,2020,8686,0.24,58.5,9.05,12400,52.7,25,Full Moon,Kasilof River Special Harvest Area,"Drift Area 1, Ex Ken/Kas Sec",both
+7/10/2020,2020,6032,0.12,58,9.09,12600,54.5,26,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/11/2020,2020,10104,0,54,9.125,12800,56.48,27,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/12/2020,2020,16526,0.54,56.5,9.16,13200,55.94,30,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/12/2020,2020,16526,0.54,56.5,9.23,13200,55.94,30,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/13/2020,2020,36322,0.27,58,9.27,13400,54.5,31,Third Quarter,Kasilof River Special Harvest Area,"Drift Area 1, Ex Ken/Kas Sec",both
+7/14/2020,2020,30084,0,54,9.2,13300,55.04,32,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/15/2020,2020,35528,0,54.5,9.21,13200,55.4,33,Third Quarter,Kasilof River Special Harvest Area,Expanded Kenai & Kasilof Sections,both
+7/16/2020,2020,19086,0.065,57.5,9.22,13100,54.68,34,Third Quarter,Kasilof River Special Harvest Area,"Drift Area 1, Ex Ken/Kas Sec",both
+7/17/2020,2020,31392,0.13,57.5,9.26,13300,56.84,35,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/18/2020,2020,26143,0,58.5,9.29,13400,56.48,36,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/19/2020,2020,32598,0.09,58.5,9.28,13400,54.86,37,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/20/2020,2020,46306,0,62.5,9.42,13700,55.4,0,New Moon,Kasilof River Special Harvest Area,Expanded Kenai & Kasilof Sections,both
+7/21/2020,2020,17854,0.05,58.5,9.47,13800,55.4,1,New Moon,Kasilof River Special Harvest Area,None,set
+7/22/2020,2020,17316,0.1,54.5,9.42,13700,53.78,2,New Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+7/23/2020,2020,20172,0,55,9.43,13800,55.76,3,New Moon,Kasilof River Special Harvest Area,Expanded Kenai & Kasilof Sections,drift
+7/24/2020,2020,20562,0.22,56,9.42,13700,55.58,4,New Moon,Kasilof River Special Harvest Area,None,no_nets
+7/25/2020,2020,23922,0.18,58,9.44,13900,56.66,5,New Moon,Kasilof River Special Harvest Area,None,no_nets
+7/26/2020,2020,20117,0,55,9.42,13700,55.4,6,New Moon,Kasilof River Special Harvest Area,None,no_nets
+7/27/2020,2020,38004,0,52.5,9.33,13400,55.22,10,First Quarter,Kasilof River Special Harvest Area,Expanded Kenai & Kasilof Sections,drift
+7/28/2020,2020,47946,0,57.5,9.26,13200,55.94,11,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/29/2020,2020,40632,0,58,9.22,12900,56.84,12,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/30/2020,2020,43048,0,58.5,9.21,12900,57.38,13,First Quarter,Kasilof River Special Harvest Area,Expanded Kenai & Kasilof Sections,drift
+7/31/2020,2020,40718,0.07,60,9.22,12900,57.02,14,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/1/2020,2020,23055,0.4,58.5,9.22,13000,55.22,15,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/2/2020,2020,35719,0.04,58,9.29,13300,55.58,16,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/3/2020,2020,41814,0.09,57,9.32,13400,54.86,20,Full Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+8/4/2020,2020,38859,0,60.5,9.34,13600,56.48,21,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+8/5/2020,2020,36938,0,60,9.35,13500,57.02,22,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+8/6/2020,2020,38712,0.1,55.5,9.46,13800,56.66,23,Full Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",drift
+8/7/2020,2020,25368,0.17,57,9.46,14000,54.5,24,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+8/8/2020,2020,24396,0.44,57.5,9.49,14200,54.5,25,Full Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",drift
+8/9/2020,2020,34137,0.225,58,9.49,14300,55.22,26,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+8/10/2020,2020,24163,0.01,59.5,9.49,14300,53.6,27,Full Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",drift
+8/11/2020,2020,41832,0.065,56,9.49,14200,55.22,30,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/12/2020,2020,47067,0.12,55,9.46,14000,54.68,31,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/13/2020,2020,62807,0,51.5,9.42,13700,55.4,32,Third Quarter,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",drift
+8/14/2020,2020,99875,0,57,9.3,13300,56.66,33,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/15/2020,2020,57310,0,67.5,9.21,12900,56.12,34,Third Quarter,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",drift
+8/16/2020,2020,96766,0,66.5,9.16,12500,56.84,35,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/17/2020,2020,121031,0,56.5,9.1,12200,57.56,36,Third Quarter,Kasilof River Special Harvest Area,Drift Areas 3 & 4,drift
+8/18/2020,2020,46259,0,58.5,9.05,12100,58.1,0,New Moon,Kasilof River Special Harvest Area,None,no_nets
+8/19/2020,2020,20052,0,57,9.01,12000,57.56,1,New Moon,Kasilof River Special Harvest Area,None,no_nets
+8/20/2020,2020,34742,0,54.5,8.92,11600,56.66,2,New Moon,Kasilof River Special Harvest Area,Drift Areas 3 & 4,drift
+8/21/2020,2020,34459,0,57.5,8.875,11500,56.48,3,New Moon,Kasilof River Special Harvest Area,None,no_nets
+8/22/2020,2020,17777,0,54.5,8.83,11300,57.92,4,New Moon,Kasilof River Special Harvest Area,None,no_nets
+8/23/2020,2020,16512,0.01,59,8.81,11200,58.28,5,New Moon,Kasilof River Special Harvest Area,None,no_nets
+8/24/2020,2020,6708,0,55.5,8.85,11200,57.74,6,New Moon,Kasilof River Special Harvest Area,Drift Areas 3 & 4,drift
+7/1/2019,2019,6810,0,61,9.505,16300,56.84,36,Third Quarter,Kasilof River Special Harvest Area,All,both
+7/2/2019,2019,7230,0,58.5,10.16,16600,53.96,0,New Moon,Kasilof River Special Harvest Area,None,no_nets
+7/3/2019,2019,6250,0,60.5,10.16,17000,55.94,1,New Moon,Kasilof River Special Harvest Area,None,no_nets
+7/4/2019,2019,7740,0,70,10.34,17400,57.02,2,New Moon,Kasilof River Special Harvest Area,All,both
+7/5/2019,2019,8472,0,62,10.46,17800,61.52,3,New Moon,Kasilof River Special Harvest Area,None,no_nets
+7/6/2019,2019,9093,0,64,10.67,18300,59.9,4,New Moon,Kasilof River Special Harvest Area,None,no_nets
+7/7/2019,2019,12621,0,61.5,10.74,18700,58.82,5,New Moon,Kasilof River Special Harvest Area,None,no_nets
+7/8/2019,2019,21444,0,66,10.95,19100,61.7,6,New Moon,Kasilof River Special Harvest Area,All,both
+7/9/2019,2019,15190,0,60,11.27,19400,62.96,10,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/10/2019,2019,10485,0,58.5,11.27,19500,55.94,11,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/11/2019,2019,14098,0,57,11.27,19500,51.8,12,First Quarter,Kasilof River Special Harvest Area,"Drift Area 1, Ex Ken/Kas Sec",both
+7/12/2019,2019,22868,0,58,11.13,19400,51.8,13,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/13/2019,2019,20130,0,60,10.99,19200,51.98,14,First Quarter,Kasilof River Special Harvest Area,Kasilof Section,both
+7/14/2019,2019,34054,0.18,59,10.92,19000,56.84,15,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/15/2019,2019,30509,0.04,61.5,10.82,18700,57.02,16,First Quarter,Kasilof River Special Harvest Area,"Drift Area 1, Ex Ken/Kas Sec",both
+7/16/2019,2019,16420,0.02,61.5,10.74,18500,55.94,20,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/17/2019,2019,23285,0.01,59.5,10.52,18000,56.3,21,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/18/2019,2019,46059,0,60,10.46,17700,56.12,22,Full Moon,Kasilof River Special Harvest Area,"Drift Area 1, Ex Ken/Kas Sec",both
+7/19/2019,2019,25963,0,58.5,10.41,17600,56.84,23,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/20/2019,2019,35652,0,58.5,10.44,17500,59,24,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/21/2019,2019,76650,0,57.5,10.35,17200,58.28,25,Full Moon,Kasilof River Special Harvest Area,None,set
+7/21/2019,2019,76650,0,57.5,10.44,17200,58.28,25,Full Moon,Kasilof River Special Harvest Area,None,set
+7/22/2019,2019,75542,0,58.5,10.21,16900,57.56,26,Full Moon,Kasilof River Special Harvest Area,"Drift Area 1, Ex Ken/Kas Sec",both
+7/23/2019,2019,36107,0.15,59.5,10.14,16600,57.74,27,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/24/2019,2019,53574,0.14,58,10.2,16500,58.64,30,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/25/2019,2019,80928,0,57,10.14,16200,56.3,31,Third Quarter,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+7/26/2019,2019,77996,0.38,54.5,9.95,15800,55.76,32,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/27/2019,2019,98201,0.48,59.5,9.75,15300,57.38,33,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/28/2019,2019,99038,0.01,57,9.57,15000,56.3,34,Third Quarter,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+7/29/2019,2019,75604,0,54.5,9.485,14600,57.02,35,Third Quarter,Kasilof River Special Harvest Area,"Drift Area 1&2, Ex Ken/Kas Sec",both
+7/30/2019,2019,42439,0,55,9.4,14200,58.82,36,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/31/2019,2019,34315,0,54.5,9.36,13900,57.2,0,New Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+8/1/2019,2019,37711,0,57.5,9.37,13700,55.04,1,New Moon,Kasilof River Special Harvest Area,All,both
+8/2/2019,2019,42084,0,60.5,9.28,13400,57.74,2,New Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+8/3/2019,2019,55930,0,65,9.31,13300,59,3,New Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+8/4/2019,2019,62687,0,65.5,9.27,13400,59.18,4,New Moon,Kasilof River Special Harvest Area,None,no_nets
+8/5/2019,2019,72712,0,61.5,9.315,13500,58.46,5,New Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",drift
+8/6/2019,2019,76394,0,66,9.36,13700,58.64,6,New Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",drift
+8/7/2019,2019,61264,0,63,9.4,14100,57.92,10,First Quarter,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",drift
+8/8/2019,2019,48046,0,66.5,9.43,14400,58.28,11,First Quarter,Kasilof River Special Harvest Area,All,drift
+8/9/2019,2019,37042,0,61.5,9.47,14700,56.84,12,First Quarter,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",drift
+8/10/2019,2019,32759,0,62,9.68,14800,58.64,13,First Quarter,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",drift
+8/11/2019,2019,32146,0,62,9.75,14700,60.98,14,First Quarter,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",drift
+8/12/2019,2019,25377,0,57,9.64,14600,61.52,15,First Quarter,Kasilof River Special Harvest Area,All,drift
+8/13/2019,2019,22158,0,66,9.53,14400,63.86,16,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/14/2019,2019,25809,0,65.5,9.46,14400,62.24,17,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/15/2019,2019,24908,0,64,9.43,14300,61.34,20,Full Moon,Kasilof River Special Harvest Area,Drift Areas 3 & 4,drift
+8/16/2019,2019,22220,0,60,9.4,14200,61.16,21,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+8/17/2019,2019,18146,0,62,9.39,14200,57.2,22,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+8/18/2019,2019,16763,0,59.5,9.39,14200,52.7,23,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+8/19/2019,2019,10131,0,54.5,9.39,13800,48.38,24,Full Moon,Kasilof River Special Harvest Area,Drift Areas 3 & 4,drift
+7/1/2018,2018,1966,0,54.5,9.45,14900,48.56,24,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/2/2018,2018,3694,0,56.5,9.41,14500,49.28,25,Full Moon,Kasilof River Special Harvest Area,All,drift
+7/3/2018,2018,2394,0,59,9.36,14400,49.64,26,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/4/2018,2018,4559,0,60.5,9.42,14500,50.54,27,Full Moon,Kasilof River Special Harvest Area,Kasilof Section,both
+7/5/2018,2018,5065,0,61,9.45,14700,52.52,28,Full Moon,Kasilof River Special Harvest Area,All,drift
+7/6/2018,2018,6505,0,63.5,9.47,14900,53.42,30,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/7/2018,2018,7786,0,58.5,9.52,15300,57.56,31,Third Quarter,Kasilof River Special Harvest Area,Kasilof Section,both
+7/8/2018,2018,5544,0.05,55.5,9.86,15900,56.12,32,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/9/2018,2018,5724,0.2,53.5,9.96,16400,51.44,33,Third Quarter,Kasilof River Special Harvest Area,"Drift Area 1, Ex Ken/Kas Sec",both
+7/10/2018,2018,3744,0.11,53,10.16,16800,51.08,34,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/11/2018,2018,4062,0.01,52.5,10.18,17200,51.08,35,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/12/2018,2018,14898,0,49.5,10.19,17300,51.08,0,New Moon,Kasilof River Special Harvest Area,"Drift Area 1, Ex Ken/Kas Sec",both
+7/13/2018,2018,23394,0.02,53.5,10.2,17200,50.18,1,New Moon,Kasilof River Special Harvest Area,None,no_nets
+7/14/2018,2018,8593,0.16,55.5,10.15,17000,50.9,2,New Moon,Kasilof River Special Harvest Area,None,set
+7/15/2018,2018,7662,0.05,56,10.06,16600,51.08,3,New Moon,Kasilof River Special Harvest Area,None,no_nets
+7/16/2018,2018,7110,0,56.5,9.99,16100,50.9,4,New Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+7/17/2018,2018,11072,0,56,9.87,15700,51.98,5,New Moon,Kasilof River Special Harvest Area,None,no_nets
+7/18/2018,2018,19280,0,55,9.52,15200,53.06,6,New Moon,Kasilof River Special Harvest Area,None,set
+7/19/2018,2018,30293,0,53,9.48,14700,52.7,10,First Quarter,Kasilof River Special Harvest Area,None,set
+7/20/2018,2018,33858,0,56.5,9.45,14300,50.18,11,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/21/2018,2018,62503,0,57,9.31,14000,52.88,12,First Quarter,Kasilof River Special Harvest Area,None,set
+7/22/2018,2018,24618,0,57.5,9.25,13700,52.52,13,First Quarter,Kasilof River Special Harvest Area,None,set
+7/23/2018,2018,33606,0.21,55.5,9.25,13700,53.42,14,First Quarter,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+7/24/2018,2018,25466,0.41,58,9.25,13800,55.22,15,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/25/2018,2018,14129,0.12,57.5,9.29,13900,54.32,16,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/26/2018,2018,15316,0.02,60.5,9.43,14100,53.78,17,First Quarter,Kasilof River Special Harvest Area,None,set
+7/27/2018,2018,16043,0.02,57,9.5,14400,53.96,20,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/28/2018,2018,8923,0.04,58.5,9.5,14600,52.7,21,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/29/2018,2018,11482,0,59,9.53,14900,53.42,22,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/30/2018,2018,14879,0,60,9.83,15400,53.78,23,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/31/2018,2018,18579,0.26,65.5,9.89,15600,52.52,24,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+8/1/2018,2018,22734,0.52,58,9.93,15600,52.88,25,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+8/2/2018,2018,17967,0.78,55.5,9.89,15700,51.98,26,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+8/3/2018,2018,22848,0.13,63.5,10.01,16200,53.24,27,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+8/4/2018,2018,27423,0,61.5,10.02,16000,53.24,30,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/5/2018,2018,31944,0,60.5,9.94,15800,53.6,31,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/6/2018,2018,30190,0.03,60.5,9.9,15900,53.78,32,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/7/2018,2018,55768,0.03,58,10.02,16200,52.7,33,Third Quarter,Kasilof River Special Harvest Area,Area 3,drift
+8/8/2018,2018,11146,0.03,58,10.02,16100,53.78,34,Third Quarter,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+8/9/2018,2018,14372,0.02,55.5,9.94,15700,53.6,35,Third Quarter,Kasilof River Special Harvest Area,"Area 3, KRSHA",both
+8/10/2018,2018,14265,0.01,49.5,9.74,15200,53.78,36,Third Quarter,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+8/11/2018,2018,26837,0.37,55.5,9.49,14800,54.32,0,New Moon,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+8/12/2018,2018,40040,0.35,62,7.27,14900,54.5,1,New Moon,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+8/13/2018,2018,16205,0.256666667,56.5,9.38,14700,51.8,2,New Moon,Kasilof River Special Harvest Area,Drift Areas 3,drift
+8/14/2018,2018,6692,0.163333333,56.5,9.35,14500,50,3,New Moon,Kasilof River Special Harvest Area,None,no_nets
+8/15/2018,2018,12195,0.07,50.5,9.35,14300,50,4,New Moon,Kasilof River Special Harvest Area,None,no_nets
+8/16/2018,2018,18030,0.17,54,9.265,14000,51.08,5,New Moon,Kasilof River Special Harvest Area,Drift Areas 3 & 4,drift
+8/17/2018,2018,23000,0.163333333,51.5,9.2225,13500,50.9,6,New Moon,Kasilof River Special Harvest Area,None,no_nets
+8/18/2018,2018,26642,0.156666667,52,9.18,13000,51.62,10,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/19/2018,2018,29068,0.15,55.5,9.12,12700,51.98,11,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/20/2018,2018,27787,0.03,56.5,9.1,12600,51.44,12,First Quarter,Kasilof River Special Harvest Area,Drift Areas 3 & 4,drift
+8/21/2018,2018,17005,0.02,56.5,9.11,12700,51.26,13,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/22/2018,2018,6539,0.155,58,9.15,12900,51.8,14,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/23/2018,2018,28895,0.29,53.5,9.23,13200,50.72,15,First Quarter,Kasilof River Special Harvest Area,"Drift Areas 1, 3 and 4",drift
+8/24/2018,2018,17189,0.01,55,9.27,13600,51.08,16,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/25/2018,2018,19651,0.05,50,9.31,13600,50,17,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/26/2018,2018,7795,0.51,55,9.27,13500,50.72,20,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+8/27/2018,2018,9351,0,50,9.3,13600,51.44,21,Full Moon,Kasilof River Special Harvest Area,Drift Areas 3 & 4,drift
+8/28/2018,2018,1436,0,51,9.2,13300,51.26,22,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/1/2017,2017,2924,0.01,55,7.67,10600,49.82,11,First Quarter,Kasilof River Special Harvest Area,Kasilof Section,both
+7/2/2017,2017,4088,0.48,51.5,7.82,11000,50,12,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/3/2017,2017,4880,0.14,53,8.01,11400,50,13,First Quarter,Kasilof River Special Harvest Area,All,drift
+7/4/2017,2017,8652,0,55.5,8.34,11800,50.72,14,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/5/2017,2017,8833,0,60,8.39,12000,52.7,15,First Quarter,Kasilof River Special Harvest Area,Kasilof Section,both
+7/6/2017,2017,5676,0.03,54.5,8.49,12400,52.7,16,First Quarter,Kasilof River Special Harvest Area,All,drift
+7/7/2017,2017,9688,0.125,60.5,8.57,12700,52.7,17,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/8/2017,2017,12138,0.22,52.5,8.6,12800,54.32,20,Full Moon,Kasilof River Special Harvest Area,Kasilof Section,both
+7/9/2017,2017,17946,0.18,53.5,8.61,12900,55.04,21,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/10/2017,2017,19932,0,54,8.61,12800,53.96,22,Full Moon,Kasilof River Special Harvest Area,"Drift Area 1, Ex Ken/Kas Sec",both
+7/11/2017,2017,9390,0,54,8.58,12600,54.32,23,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/12/2017,2017,11330,0,55,8.49,12400,54.32,24,Full Moon,Kasilof River Special Harvest Area,Expanded Kenai & Kasilof Sections,both
+7/13/2017,2017,8346,0,59.5,8.48,12300,54.5,25,Full Moon,Kasilof River Special Harvest Area,"Drift Area 1, Ex Ken/Kas Sec",both
+7/14/2017,2017,6565,0.14,57.5,8.53,12700,56.66,26,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/15/2017,2017,9180,0.07,57,8.75,13300,54.86,27,Full Moon,Kasilof River Special Harvest Area,Expanded Kenai & Kasilof Sections,both
+7/16/2017,2017,10185,0,55.5,8.79,13300,53.06,30,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/17/2017,2017,30081,0.02,56,8.79,13300,53.24,31,Third Quarter,Kasilof River Special Harvest Area,Expanded Kenai & Kasilof Sections,both
+7/18/2017,2017,30486,0.88,55,8.83,13500,52.16,32,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/19/2017,2017,24480,0.17,56.5,9.17,14100,52.16,33,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/20/2017,2017,29730,0.04,61,9.18,14400,51.62,34,Third Quarter,Kasilof River Special Harvest Area,Expanded Kenai & Kasilof Sections,both
+7/21/2017,2017,27450,0,52,9.18,14400,53.42,35,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/22/2017,2017,14280,0,57.5,9.3,14400,54.14,36,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/23/2017,2017,27864,0,55.5,9.4,14500,55.4,0,New Moon,Kasilof River Special Harvest Area,None,no_nets
+7/24/2017,2017,48467,0.01,57,9.48,14700,57.38,1,New Moon,Kasilof River Special Harvest Area,None,no_nets
+7/25/2017,2017,59951,0.02,54,9.47,14700,55.04,2,New Moon,Kasilof River Special Harvest Area,None,no_nets
+7/26/2017,2017,71904,0.25,54.5,9.41,14600,54.5,3,New Moon,Kasilof River Special Harvest Area,None,no_nets
+7/27/2017,2017,66624,0.135,56.5,9.27,14500,55.22,4,New Moon,Kasilof River Special Harvest Area,None,no_nets
+7/28/2017,2017,53887,0.02,56,9.17,14200,54.86,5,New Moon,Kasilof River Special Harvest Area,None,no_nets
+7/29/2017,2017,56765,0,55.5,9.06,14000,55.22,6,New Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+7/30/2017,2017,25104,0,56.5,8.88,13600,55.76,10,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/31/2017,2017,30523,0,59.5,8.75,13300,56.84,11,First Quarter,Kasilof River Special Harvest Area,All,both
+8/1/2017,2017,30222,0,58.5,8.63,13100,57.56,12,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/2/2017,2017,13064,0.01,57.5,8.61,13000,56.66,13,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/3/2017,2017,23180,0.02,57,8.61,12900,55.76,14,First Quarter,Kasilof River Special Harvest Area,All,both
+8/4/2017,2017,20405,0,59.5,8.63,13000,56.66,15,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/5/2017,2017,17137,0,64,8.64,13000,56.48,16,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/6/2017,2017,32544,0,56,8.61,12900,56.66,17,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/7/2017,2017,56283,0.08,56.5,8.66,12900,54.86,20,Full Moon,Kasilof River Special Harvest Area,"Drift Area 1, Ex Ken/Kas Sec",both
+8/8/2017,2017,30678,0,62,8.66,13000,57.56,21,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+8/9/2017,2017,13072,0.26,58,8.66,13000,56.12,22,Full Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+8/10/2017,2017,8620,0.14,58,8.645,13100,55.4,23,Full Moon,Kasilof River Special Harvest Area,"Drift Area 1, Ex Ken/Kas Sec",both
+8/11/2017,2017,13168,0.15,55.5,8.6375,13000,54.86,24,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+8/12/2017,2017,18558,0.04,56.5,8.63,12900,54.14,25,Full Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+8/13/2017,2017,30833,0.02,54.5,8.63,12900,53.24,26,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+8/14/2017,2017,35256,0,54,8.57,12700,52.88,30,Third Quarter,Kasilof River Special Harvest Area,"Drift Areas 1 & 3, Ex. Ken/Kas sec",both
+8/15/2017,2017,21046,0,55,8.44,12400,54.32,31,Third Quarter,Kasilof River Special Harvest Area,None,set
+8/16/2017,2017,16629,0.005,52,8.34,12100,54.5,32,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/17/2017,2017,30362,0.01,48.5,8.23,11900,54.32,33,Third Quarter,Kasilof River Special Harvest Area,Drift Areas 3 & 4,drift
+8/18/2017,2017,33151,0.49,49,8.15,11500,53.6,34,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/19/2017,2017,32187,0.515,53.5,8.08,11000,53.96,35,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/20/2017,2017,23203,0.54,50,8.04,10600,53.6,36,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/21/2017,2017,20586,0.2,54.5,8.02,10500,53.24,0,New Moon,Kasilof River Special Harvest Area,Drift Areas 3 & 4,drift
+8/22/2017,2017,12087,0,56,8.04,10600,53.96,1,New Moon,Kasilof River Special Harvest Area,None,no_nets
+8/23/2017,2017,12268,0.28,50.5,8.03,10500,53.78,2,New Moon,Kasilof River Special Harvest Area,None,no_nets
+8/24/2017,2017,16610,0.62,53,8.04,10700,53.42,3,New Moon,Kasilof River Special Harvest Area,Drift Areas 3 & 4,drift
+7/1/2016,2016,11786,0.35,53.5,9.21,17900,54.32,34,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/2/2016,2016,13035,0.01,56.5,10.38,17500,53.24,35,Third Quarter,Kasilof River Special Harvest Area,Kasilof Section,both
+7/3/2016,2016,12018,0,58,10.31,17300,53.6,36,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/4/2016,2016,32648,0.07,58.5,10.17,17000,55.04,0,New Moon,Kasilof River Special Harvest Area,All,drift
+7/5/2016,2016,35839,0.14,56,10.16,17000,53.06,1,New Moon,Kasilof River Special Harvest Area,None,no_nets
+7/6/2016,2016,31464,0.61,57,10.17,17000,52.7,2,New Moon,Kasilof River Special Harvest Area,Kasilof Section,both
+7/7/2016,2016,20872,0.03,57,10.14,16900,54.32,3,New Moon,Kasilof River Special Harvest Area,All,both
+7/8/2016,2016,19449,0,56.5,10.09,16700,54.68,4,New Moon,Kasilof River Special Harvest Area,None,no_nets
+7/9/2016,2016,22224,0,55,10.02,16400,54.5,5,New Moon,Kasilof River Special Harvest Area,Expanded Kenai & Kasilof Sections,both
+7/10/2016,2016,31028,0,60,10.05,16400,56.84,6,New Moon,Kasilof River Special Harvest Area,None,no_nets
+7/11/2016,2016,50695,0.03,62,10.01,16200,55.58,10,First Quarter,Kasilof River Special Harvest Area,"Drift Area 1, Ex Ken/Kas Sec",both
+7/12/2016,2016,44322,0,60.5,9.97,16100,55.94,11,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/13/2016,2016,45852,0,59.5,9.97,16000,56.12,12,First Quarter,Kasilof River Special Harvest Area,Expanded Kenai & Kasilof Sections,both
+7/14/2016,2016,45797,0,62,9.96,16000,56.12,13,First Quarter,Kasilof River Special Harvest Area,"Drift Area 1, Ex Ken/Kas Sec",both
+7/15/2016,2016,50674,0,58.5,9.98,16100,58.82,14,First Quarter,Kasilof River Special Harvest Area,"Drift Area 1, Ex Ken/Kas Sec",drift
+7/16/2016,2016,36338,0,56.5,9.97,15900,57.74,15,First Quarter,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+7/17/2016,2016,36852,0,57,9.95,15800,59.36,16,First Quarter,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+7/18/2016,2016,34753,0,61,9.98,16000,58.82,17,First Quarter,Kasilof River Special Harvest Area,All,both
+7/19/2016,2016,18300,0,63.5,10.08,16400,57.74,20,Full Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+7/20/2016,2016,15046,0,63,10.12,16700,56.3,21,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/21/2016,2016,27852,0.11,65,10.15,16800,56.84,22,Full Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+7/22/2016,2016,40031,0.22,58.5,10.21,17200,59.54,23,Full Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",drift
+7/23/2016,2016,52398,0,61,10.36,17500,59.36,24,Full Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+7/24/2016,2016,13740,0.09,58,10.41,17800,55.22,25,Full Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+7/25/2016,2016,21918,0.35,57.5,10.4,17800,56.84,26,Full Moon,Kasilof River Special Harvest Area,All,both
+7/26/2016,2016,20118,0.04,57.5,10.42,17700,56.48,30,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/27/2016,2016,17389,0.03,61.5,10.39,17500,56.48,31,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/28/2016,2016,34610,0.01,62.5,10.39,17500,57.38,32,Third Quarter,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+7/29/2016,2016,15556,0.005,58,10.42,17500,57.02,33,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/30/2016,2016,24077,0,59.5,10.39,17700,55.76,34,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/31/2016,2016,35248,0,58.5,10.29,17500,55.94,35,Third Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/1/2016,2016,52674,0.02,59.5,10.18,17400,57.02,36,Third Quarter,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+8/2/2016,2016,27678,0.3,61.5,10.14,17300,56.66,0,New Moon,Kasilof River Special Harvest Area,None,no_nets
+8/3/2016,2016,37554,0,54.5,10.08,17000,55.4,1,New Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+8/4/2016,2016,44055,0.77,56,9.99,16800,55.4,2,New Moon,Kasilof River Special Harvest Area,All,drift
+8/5/2016,2016,30402,0.23,59.5,10.07,17100,54.5,3,New Moon,Kasilof River Special Harvest Area,None,set
+8/6/2016,2016,22968,0.43,58,10.14,17400,54.14,4,New Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",drift
+8/7/2016,2016,24244,0.73,58,10.35,17900,52.7,5,New Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+8/8/2016,2016,24313,0.35,58,10.44,18300,52.52,6,New Moon,Kasilof River Special Harvest Area,All,drift
+8/9/2016,2016,24556,0.23,58,10.53,18600,52.88,7,New Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+8/10/2016,2016,24225,0.11,53,10.56,18500,53.06,10,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/11/2016,2016,24066,0.51,55,10.41,18200,52.52,11,First Quarter,Kasilof River Special Harvest Area,Drift Areas 3 & 4,drift
+8/12/2016,2016,25061,0.04,56.5,10.37,18000,53.78,12,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/13/2016,2016,26637,0.07,62.5,10.31,17700,54.5,13,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/14/2016,2016,25645,0.04,58,10.25,17600,53.6,14,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/15/2016,2016,18338,0,59.5,10.32,17700,53.78,15,First Quarter,Kasilof River Special Harvest Area,Drift Areas 3 & 4,drift
+8/16/2016,2016,15396,0,57.5,10.33,17700,54.86,16,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/17/2016,2016,8383,0.2,56.5,10.36,17800,54.32,17,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+8/18/2016,2016,8209,0.1,60,10.39,17900,53.96,20,Full Moon,Kasilof River Special Harvest Area,Drift Areas 3 & 4,drift
+8/19/2016,2016,7359,0,56.5,10.38,17800,53.6,21,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/1/2015,2015,4880,0,51,9.46,14100,53.24,20,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/2/2015,2015,5850,0.04,55,9.48,14300,51.44,21,Full Moon,Kasilof River Special Harvest Area,Kasilof Section,both
+7/3/2015,2015,7658,0,56.5,9.5,14400,52.34,22,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/4/2015,2015,7398,0.09,56,9.58,14600,54.32,23,Full Moon,Kasilof River Special Harvest Area,Kasilof Section,both
+7/5/2015,2015,8592,0.01,62,9.63,15000,53.24,24,Full Moon,Kasilof River Special Harvest Area,None,no_nets
+7/6/2015,2015,11294,0.02,60,9.86,15400,53.24,25,Full Moon,Kasilof River Special Harvest Area,All,both
+7/7/2015,2015,13287,0.06,56,10.02,16000,52.34,26,Full Moon,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+7/8/2015,2015,12840,0,54.5,10.1,16300,49.82,30,Third Quarter,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+7/9/2015,2015,22770,0,55,10.04,16200,49.82,31,Third Quarter,Kasilof River Special Harvest Area,Drift Area 1 & Expanded Corridor,both
+7/10/2015,2015,15587,0,56.5,9.99,15900,52.16,32,Third Quarter,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+7/11/2015,2015,12135,0,54.5,9.91,15500,51.62,33,Third Quarter,Kasilof River Special Harvest Area,Expanded Kenai & Kasilof Sections,both
+7/12/2015,2015,12373,0.11,58,9.68,15300,52.52,34,Third Quarter,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+7/13/2015,2015,20172,0.32,58,9.62,15100,55.4,35,Third Quarter,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+7/14/2015,2015,24744,0.06,55.5,9.61,15000,53.96,36,Third Quarter,Kasilof River Special Harvest Area,Expanded Kenai & Kasilof Sections,both
+7/15/2015,2015,15148,0.16,55.5,9.5,14600,53.42,0,New Moon,Kasilof River Special Harvest Area,None,set
+7/16/2015,2015,18114,0.22,55.5,9.48,14600,53.24,1,New Moon,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+7/17/2015,2015,17529,0.12,56,9.49,14600,51.26,2,New Moon,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+7/18/2015,2015,20009,0,56.5,9.57,14700,50.72,3,New Moon,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+7/19/2015,2015,49158,0,52.5,9.54,14800,50.9,4,New Moon,Kasilof River Special Harvest Area,None,set
+7/20/2015,2015,53600,0,56.5,9.555,14900,52.34,5,New Moon,Kasilof River Special Harvest Area,"Drift Area 1, Ex. Ken/Kas & AP sec",both
+7/21/2015,2015,32547,0,53,9.57,14900,52.52,6,New Moon,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+7/22/2015,2015,27262,0.18,54.5,9.57,14700,52.88,7,New Moon,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+7/23/2015,2015,75150,0.06,58.5,9.57,14800,54.32,10,First Quarter,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+7/24/2015,2015,57280,0,58,9.5,14600,54.32,11,First Quarter,Kasilof River Special Harvest Area,None,no_nets
+7/25/2015,2015,72100,0.13,58.5,9.47,14300,54.5,12,First Quarter,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+7/26/2015,2015,66442,0.05,56,9.49,14400,54.14,13,First Quarter,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+7/27/2015,2015,49749,0.05,55.5,9.46,14400,54.14,14,First Quarter,Kasilof River Special Harvest Area,"Drift Area 1, Ex. Ken/Kas & AP sec",both
+7/28/2015,2015,58985,0.05,59.5,9.465,14400,56.3,15,First Quarter,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+7/29/2015,2015,41620,0.025,58.5,9.47,14500,56.3,16,First Quarter,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+7/30/2015,2015,34791,0,59.5,9.48,14400,55.22,17,First Quarter,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+7/31/2015,2015,21565,0,56.5,9.45,14100,56.12,20,Full Moon,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+8/1/2015,2015,42730,0,60,9.16,13800,58.28,21,Full Moon,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+8/2/2015,2015,35975,0,57.5,9.14,13500,58.82,22,Full Moon,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+8/3/2015,2015,24064,0,58.5,8.88,13200,59,23,Full Moon,Upper Subdistrict,All,both
+8/4/2015,2015,21743,0,63.5,8.87,13000,58.28,24,Full Moon,None,None,no_nets
+8/5/2015,2015,48318,0,57.5,8.96,12900,59.72,25,Full Moon,Upper Subdistrict,"Exp. Ken/Kas, & Anchor Pt.",both
+8/6/2015,2015,43038,0,56.5,8.9,12700,58.82,30,Third Quarter,Upper Subdistrict,All,both
+8/7/2015,2015,43429,0,55.5,8.75,12500,60.08,31,Third Quarter,None,"Exp. Ken/Kas, & Anchor Pt.",drift
+8/8/2015,2015,46631,0.08,53,8.605,12300,59.54,32,Third Quarter,Upper Subdistrict,All,both
+8/9/2015,2015,28866,0.16,56,8.46,12300,58.64,33,Third Quarter,Upper Subdistrict,"Exp. Ken/Kas, & Anchor Pt.",both
+8/10/2015,2015,23899,0,58,8.74,12500,56.84,34,Third Quarter,Upper Subdistrict,All,both
+8/11/2015,2015,36822,0,53.5,8.58,12300,57.02,35,Third Quarter,None,None,no_nets
+8/12/2015,2015,32700,0,50,8.54,12000,56.84,36,Third Quarter,Kenai & East Foreland Sections,"Exp. Ken/Kas, & Anchor Pt.",both
+8/13/2015,2015,30411,0,53,8.5,11800,57.02,37,Third Quarter,"All, except Kasilof Section",All,both
+8/14/2015,2015,35817,0,56,8.41,11500,57.2,0,New Moon,None,None,no_nets
+8/15/2015,2015,34401,0.42,53,8.39,11400,57.02,1,New Moon,None,None,no_nets
+8/16/2015,2015,36221,0.4,55.5,8.38,11300,56.66,2,New Moon,None,None,no_nets
+8/17/2015,2015,28851,0.28,57,8.34,11300,57.02,3,New Moon,None,Drift Areas 3 & 4,drift
+8/18/2015,2015,20370,0.14,61,8.34,11400,56.48,4,New Moon,None,None,no_nets
+8/19/2015,2015,32591,0,56,8.4,11500,54.68,5,New Moon,None,None,no_nets
+8/20/2015,2015,42023,0,52.5,8.38,11400,56.3,6,New Moon,None,Drift Areas 3 & 4,drift
+8/21/2015,2015,22582,0.02,56,8.35,11300,55.94,7,New Moon,None,None,no_nets
+8/22/2015,2015,19153,0,55.5,8.29,11200,56.66,10,First Quarter,None,None,no_nets
+8/23/2015,2015,24346,0,51.5,8.23,11100,55.04,11,First Quarter,None,None,no_nets
+8/24/2015,2015,26910,0,50.5,8.18,10900,53.96,12,First Quarter,None,Drift Areas 3 & 4,drift
+8/25/2015,2015,23109,0,56.5,8.14,10700,54.5,13,First Quarter,None,None,no_nets
+8/26/2015,2015,13424,0.01,58,8.1,10500,56.3,14,First Quarter,None,None,no_nets
+7/1/2014,2014,10392,0,53,8.31,10900,52.34,4,New Moon,None,None,no_nets
+7/2/2014,2014,9240,0,57,8.28,10900,52.7,5,New Moon,None,None,no_nets
+7/3/2014,2014,10794,0,60,8.34,10900,52.52,6,New Moon,Kasilof Section,All,both
+7/4/2014,2014,9288,0,57,8.36,11000,52.16,7,New Moon,None,None,no_nets
+7/5/2014,2014,11574,0,53.5,8.43,11200,55.76,10,First Quarter,Kasilof Section,Kasilof Section,both
+7/6/2014,2014,29490,0.15,58,8.53,11400,57.38,11,First Quarter,None,None,no_nets
+7/7/2014,2014,29052,0.075,59.5,8.63,11700,55.58,12,First Quarter,Kasilof Section,Kasilof Section,both
+7/8/2014,2014,16872,0,56,8.81,12000,54.5,13,First Quarter,None,None,no_nets
+7/9/2014,2014,24201,0.47,55,8.73,12100,52.7,14,First Quarter,"Kenai, Kasilof, & East Forelands Sections",Expanded Kenai & Kasilof Sections,both
+7/10/2014,2014,20312,1.14,53.5,8.87,12400,53.24,15,First Quarter,None,Drift Area 1 & Expanded Corridor,drift
+7/11/2014,2014,12606,0.03,58,9.45,13400,52.7,16,First Quarter,None,Expanded Kenai & Kasilof Sections,drift
+7/12/2014,2014,23779,0.02,56.5,9.6,14400,53.06,20,Full Moon,Kasilof Section within 1/2 mile of shore,Drift Area 1 & Expanded Corridor,both
+7/13/2014,2014,31889,0.01,55.5,9.65,14900,52.88,21,Full Moon,None,Expanded Kenai & Kasilof Sections,drift
+7/14/2014,2014,23118,0,53.5,9.99,15500,53.42,22,Full Moon,None,Drift Area 1 & Expanded Corridor,drift
+7/15/2014,2014,23863,0,53.5,10.06,16000,53.42,23,Full Moon,Kasilof Section within 1/2 mile of shore,Expanded Kenai & Kasilof Sections,both
+7/16/2014,2014,20934,0,55,10.11,16200,53.06,24,Full Moon,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+7/17/2014,2014,33144,0,56,10.12,16200,54.14,25,Full Moon,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+7/18/2014,2014,39024,0,56.5,10.05,15800,56.66,30,Third Quarter,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+7/19/2014,2014,16608,0.01,59,9.81,15200,54.14,31,Third Quarter,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+7/20/2014,2014,34104,0,57,9.63,14700,52.16,32,Third Quarter,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+7/21/2014,2014,63954,0,55,9.58,14200,53.06,33,Third Quarter,Kasilof River Special Harvest Area,Drift Area 1 & Expanded Corridor,both
+7/22/2014,2014,44241,0.005,52.5,9.49,13700,53.24,34,Third Quarter,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+7/23/2014,2014,37492,0.01,58.5,9.46,13400,52.88,35,Third Quarter,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+7/24/2014,2014,37812,0.16,54.5,9.46,13400,55.04,36,Third Quarter,Kasilof River Special Harvest Area,"Exp. Ken/Kas, & Anchor Pt.",both
+7/25/2014,2014,29844,0.31,54,9.34,13200,54.32,37,Third Quarter,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+7/26/2014,2014,32013,0,55,9.32,13200,54.32,0,New Moon,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+7/27/2014,2014,22073,0,54.5,9.16,12800,56.3,1,New Moon,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+7/28/2014,2014,31590,0.6,54.5,9,12500,57.38,2,New Moon,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+7/29/2014,2014,38565,0.03,59.5,8.92,12300,56.84,3,New Moon,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+7/30/2014,2014,58024,0,57,8.73,12100,57.74,4,New Moon,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+7/31/2014,2014,66786,0,57,8.65,11900,58.1,5,New Moon,None,"Exp. Ken/Kas, & Anchor Pt.",drift
+8/1/2014,2014,35535,0,55,8.62,11800,56.48,6,New Moon,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+8/2/2014,2014,33971,0,58,8.57,11700,56.12,7,New Moon,Kasilof River Special Harvest Area,Kasilof River Special Harvest Area,both
+8/3/2014,2014,50791,0.33,59,8.58,11700,57.74,10,First Quarter,None,None,no_nets
+8/4/2014,2014,54803,0.29,58.5,8.58,11800,57.74,11,First Quarter,"Kenai, Kasilof, & East Forelands Sections",All,both
+8/5/2014,2014,111807,0,59.5,8.55,11800,57.74,12,First Quarter,None,None,no_nets
+8/6/2014,2014,63682,0,56.5,8.62,11900,57.56,13,First Quarter,Kenai & East Foreland Sections,None,set
+8/7/2014,2014,58124,0.01,58,8.68,12100,56.84,14,First Quarter,None,All,drift
+8/8/2014,2014,55101,0.05,58.5,8.9,12400,55.04,15,First Quarter,None,None,no_nets
+8/9/2014,2014,53381,0.11,59.5,9.46,13400,54.14,16,First Quarter,None,None,no_nets
+8/10/2014,2014,58086,0.06,61.5,9.755,14700,54.5,20,Full Moon,None,None,no_nets
+8/11/2014,2014,30430,0.095,63.5,10.05,15900,55.58,21,Full Moon,None,Drift Areas 3 & 4,drift
+8/12/2014,2014,14234,0.13,59.5,10.34,17200,55.04,22,Full Moon,None,None,no_nets
+8/13/2014,2014,4484,0.15,60,10.63,18700,54.68,23,Full Moon,None,None,no_nets
+8/13/2014,2014,4484,0.15,60,10.86,18700,54.68,23,Full Moon,None,None,no_nets
+8/14/2014,2014,6048,0.69,58,11.05,20400,54.5,24,Full Moon,None,Drift Areas 3 & 4,drift

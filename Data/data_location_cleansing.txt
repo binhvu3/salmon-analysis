@@ -1,0 +1,39 @@
+all KRSHA -> Kasilof River Special Harvest Area
+Kenai, Kasilof & E. Foreland -> Kenai, Kasilof, & East Forelands Sections
+Kenai, Kasilof, & E. Foreland -> Kenai, Kasilof, & East Forelands Sections
+Kenai, Kasilof, and E. Foreland -> Kenai, Kasilof, & East Forelands Sections
+Kenai, Kasilof & East Foreland -> Kenai, Kasilof, & East Forelands Sections
+Drift Area 1 & Ken/Kas Sections -> Drift Area 1 & Kenai/Kasilof Sections
+Drift Area 1, Ex Ken/Kas Sec -> Drift Area 1, Ex. Ken/Kas Sec
+Exp. Ken/Kas, and Anchor Pt. -> Exp. Ken/Kas, & Anchor Pt.
+New pink salmon area (5 AAC 21.356) -> Pink salmon drift area (5AAC 21.356)
+Expanded Kenai/Kasilof Sections -> Expanded Kenai & Kasilof Sections
+Expanded Kenai/Kasilof sections -> Expanded Kenai & Kasilof Sections
+Drift Area 1, Ex. Ken/Kas & AP sec -> Drift Area 1, Exp. Ken/Kas, & Anchor Pt.
+Pink salmon drift area -> Pink salmon drift area (5AAC 21.356)
+All except N. District -> All except Northern District
+Kasilof Section within 600 feet -> Kasilof Section within 600ft
+Kasilof Section 1/2 mile -> Kasilof Section within 1/2 mile of shore
+Kasilof 600ft -> Kasilof Section
+Kasilof 600ft & NKB 600ft -> Kasilof Section - NKB 600ft
+Kasilof Section withing 1/2 mile of shore -> Kasilof Section within 1/2 mile of shore
+Kasilof Section within one-half mile -> Kasilof Section within 1/2 mile of shore
+Kasilof, Kenai, & E. Foreland Sections -> Kenai, Kasilof, & East Forelands Sections
+Kenai & East Foreland sections -> Kenai & East Foreland Sections 
+Kasilof Special Harvest Area -> Kasilof River Special Harvest Area
+
+
+Outliers removed - 
+one drift location for: W. Sub. S. of Redoutbt Pt. & Kas. Sec. w/in 1/2 mile  -- changed to None
+one drift location for: W. Sub. S. of Redoutbt Pt. & Kenai/Kasilof Sections -- changed to None
+
+
+ 
+
+
+
+
+
+
+
+

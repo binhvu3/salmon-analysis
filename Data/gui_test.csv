@@ -1,0 +1,477 @@
+fish_count,discharge,water_temp,moon_phase,drift_location,nets
+5034,15000,59.72,New Moon,None,no_nets
+4212,15200,59,New Moon,Kasilof Section,drift
+5796,15300,57.2,New Moon,None,no_nets
+7314,15300,56.84,New Moon,District Wide except Chinitna Bay Sub,drift
+7386,15200,57.02,New Moon,None,no_nets
+10341,15100,56.84,First Quarter,Drift Area 1,drift
+12973,15200,58.1,First Quarter,District Wide except Chinitna Bay Sub,both
+13884,15400,57.74,First Quarter,None,no_nets
+13992,16000,57.2,First Quarter,None,no_nets
+21424,16500,56.84,First Quarter,None,no_nets
+20597,16800,57.2,First Quarter,"Drift Area 1, Ex Ken/Kas Sec",both
+8094,17400,57.74,First Quarter,None,no_nets
+9636,17800,56.66,Full Moon,Expanded Kenai & Kasilof Sections,drift
+5556,17900,56.66,Full Moon,Expanded Kenai & Kasilof Sections,both
+5225,17700,56.3,Full Moon,"Drift Area 1, Ex Ken/Kas Sec",drift
+18780,17700,56.12,Full Moon,None,no_nets
+45558,17900,55.22,Full Moon,None,no_nets
+39697,17600,53.6,Full Moon,"Drift Area 1, Exp. Ken/Kas, & Anchor Pt.",drift
+74328,17300,52.52,Full Moon,"Exp. Ken/Kas, & Anchor Pt.",drift
+189420,17300,53.6,Third Quarter,"Exp. Ken/Kas, & Anchor Pt.",drift
+155774,17100,53.6,Third Quarter,"Exp. Ken/Kas, & Anchor Pt.",drift
+99324,16800,53.96,Third Quarter,"Exp. Ken/Kas, & Anchor Pt.",drift
+79950,16500,53.42,Third Quarter,"Exp. Ken/Kas, & Anchor Pt.",drift
+101376,16000,54.86,Third Quarter,"Exp. Ken/Kas, & Anchor Pt.",drift
+54139,15900,55.4,Third Quarter,"Drift Area 1, Exp. Ken/Kas, & Anchor Pt.",drift
+44166,15900,52.16,Third Quarter,"Exp. Ken/Kas, & Anchor Pt.",drift
+56110,15500,51.98,Third Quarter,"Exp. Ken/Kas, & Anchor Pt.",drift
+32859,15100,53.42,New Moon,"Exp. Ken/Kas, & Anchor Pt.",drift
+24474,14800,54.14,New Moon,"Exp. Ken/Kas, & Anchor Pt.",drift
+24594,14600,55.58,New Moon,"Exp. Ken/Kas, & Anchor Pt.",drift
+16902,14400,56.84,New Moon,"Exp. Ken/Kas, & Anchor Pt.",drift
+31619,14100,55.94,New Moon,"Drift Area 1, Exp. Ken/Kas, & Anchor Pt.",drift
+36152,14000,54.68,New Moon,None,no_nets
+21493,13700,55.04,New Moon,None,no_nets
+26351,13600,56.3,New Moon,"Drift Area 1, Exp. Ken/Kas, & Anchor Pt.",drift
+29960,13500,58.28,First Quarter,None,no_nets
+19915,13400,55.76,First Quarter,None,no_nets
+23752,13300,54.68,First Quarter,None,no_nets
+21717,13200,54.14,First Quarter,"Drift Area 1, Exp. Ken/Kas, & Anchor Pt.",drift
+25924,13100,53.78,First Quarter,None,no_nets
+21212,12900,54.32,First Quarter,None,no_nets
+26198,12900,55.22,Full Moon,"Drift Area 1, Exp. Ken/Kas, & Anchor Pt.",drift
+26817,13500,54.5,Full Moon,None,no_nets
+17310,14100,53.78,Full Moon,None,no_nets
+6190,14700,54.14,Full Moon,None,no_nets
+12872,15300,54.32,Full Moon,Drift Areas 3 & 4,drift
+11353,15900,54.5,Full Moon,None,no_nets
+7248,14000,48.2,Third Quarter,All,both
+6476,14400,51.08,Third Quarter,None,no_nets
+6430,14400,48.92,Third Quarter,Kasilof Section,both
+6685,14300,48.38,Third Quarter,None,no_nets
+6122,14100,47.66,Third Quarter,All,both
+11298,14100,49.46,Third Quarter,Kasilof Section,both
+9182,13900,49.1,Third Quarter,Kasilof Section,both
+14040,13600,47.84,Third Quarter,Kasilof Section,both
+10655,13400,49.28,New Moon,None,no_nets
+10842,13200,49.46,New Moon,None,no_nets
+13986,12900,49.28,New Moon,None,no_nets
+16461,12800,49.46,New Moon,"Drift Area 1, Ex Ken/Kas Sec",both
+12738,12800,50.54,New Moon,Expanded Kenai & Kasilof Sections,both
+9852,12800,51.8,New Moon,Expanded Kenai & Kasilof Sections,both
+19982,12800,52.34,New Moon,"Drift Area 1, Ex Ken/Kas Sec",both
+14727,12900,53.24,New Moon,None,no_nets
+16015,13100,53.06,First Quarter,None,no_nets
+19843,13400,54.68,First Quarter,Kasilof River Special Harvest Area,both
+25731,13700,55.76,First Quarter,"Drift Area 1, Ex Ken/Kas Sec",both
+85706,14200,55.04,First Quarter,"Exp. Ken/Kas, & Anchor Pt.",both
+55920,14500,54.86,First Quarter,"Exp. Ken/Kas, & Anchor Pt.",drift
+32958,14800,54.32,First Quarter,"Exp. Ken/Kas, & Anchor Pt.",drift
+40956,14800,53.78,Full Moon,"Exp. Ken/Kas, & Anchor Pt.",drift
+38526,14700,54.32,Full Moon,None,no_nets
+57660,14500,53.42,Full Moon,None,no_nets
+52164,14300,52.88,Full Moon,"Drift Area 1, Ex Ken/Kas Sec",drift
+62633,14100,52.88,Full Moon,"Exp. Ken/Kas, & Anchor Pt.",drift
+58394,13900,53.24,Full Moon,"Exp. Ken/Kas, & Anchor Pt.",drift
+74864,13700,56.12,Full Moon,Expanded Kenai & Kasilof Sections,drift
+47866,13400,53.24,Full Moon,None,no_nets
+77985,13100,55.4,Third Quarter,None,no_nets
+87653,12800,55.58,Third Quarter,"Exp. Ken/Kas, & Anchor Pt.",drift
+151525,12500,57.56,Third Quarter,"Drift Area 1, Ex Ken/Kas Sec",drift
+136740,12300,58.46,Third Quarter,"Exp. Ken/Kas, & Anchor Pt.",drift
+109902,12200,57.2,Third Quarter,None,no_nets
+80538,12000,56.66,Third Quarter,"Drift Area 1, Ex Ken/Kas Sec",drift
+80029,12100,56.3,Third Quarter,"Exp. Ken/Kas, & Anchor Pt.",drift
+73260,12000,56.66,Third Quarter,"Exp. Ken/Kas, & Anchor Pt.",drift
+89750,12100,55.22,New Moon,"Exp. Ken/Kas, & Anchor Pt.",drift
+72734,12300,53.06,New Moon,"Drift Area 1, Ex Ken/Kas Sec",drift
+56226,12400,53.78,New Moon,"Exp. Ken/Kas, & Anchor Pt.",drift
+54827,12600,52.52,New Moon,"Exp. Ken/Kas, & Anchor Pt.",drift
+48605,12800,52.7,New Moon,"Drift Area 1, Ex Ken/Kas Sec",drift
+40367,12800,51.44,New Moon,None,no_nets
+52677,12800,51.44,New Moon,None,no_nets
+59856,12500,51.98,First Quarter,None,no_nets
+55844,12100,52.16,First Quarter,Drift Areas 3 & 4,drift
+61737,12000,53.96,First Quarter,None,no_nets
+41519,11800,53.78,First Quarter,None,no_nets
+41335,11600,53.78,First Quarter,Drift Areas 3 & 4,drift
+37664,11300,53.6,First Quarter,None,no_nets
+31436,11100,51.26,First Quarter,None,no_nets
+23330,10800,51.98,Full Moon,None,no_nets
+18104,10700,53.06,Full Moon,Drift Areas 3 & 4,drift
+12222,10800,52.7,Full Moon,None,no_nets
+5355,10900,49.82,First Quarter,None,no_nets
+3468,10800,51.26,First Quarter,Kasilof Section,both
+3576,10800,52.52,First Quarter,None,no_nets
+3965,11000,54.32,Full Moon,Kasilof Section,both
+4290,11200,55.94,Full Moon,None,no_nets
+11190,11500,55.76,Full Moon,All,both
+15138,11700,53.6,Full Moon,Kasilof Section,both
+12127,11900,53.96,Full Moon,Kasilof Section,both
+8686,12400,52.7,Full Moon,"Drift Area 1, Ex Ken/Kas Sec",both
+6032,12600,54.5,Full Moon,None,no_nets
+10104,12800,56.48,Full Moon,None,no_nets
+16526,13200,55.94,Third Quarter,None,no_nets
+16526,13200,55.94,Third Quarter,None,no_nets
+36322,13400,54.5,Third Quarter,"Drift Area 1, Ex Ken/Kas Sec",both
+30084,13300,55.04,Third Quarter,None,no_nets
+35528,13200,55.4,Third Quarter,Expanded Kenai & Kasilof Sections,both
+19086,13100,54.68,Third Quarter,"Drift Area 1, Ex Ken/Kas Sec",both
+31392,13300,56.84,Third Quarter,None,no_nets
+26143,13400,56.48,Third Quarter,None,no_nets
+32598,13400,54.86,Third Quarter,None,no_nets
+46306,13700,55.4,New Moon,Expanded Kenai & Kasilof Sections,both
+17854,13800,55.4,New Moon,None,set
+17316,13700,53.78,New Moon,"Exp. Ken/Kas, & Anchor Pt.",both
+20172,13800,55.76,New Moon,Expanded Kenai & Kasilof Sections,drift
+20562,13700,55.58,New Moon,None,no_nets
+23922,13900,56.66,New Moon,None,no_nets
+20117,13700,55.4,New Moon,None,no_nets
+38004,13400,55.22,First Quarter,Expanded Kenai & Kasilof Sections,drift
+47946,13200,55.94,First Quarter,None,no_nets
+40632,12900,56.84,First Quarter,None,no_nets
+43048,12900,57.38,First Quarter,Expanded Kenai & Kasilof Sections,drift
+40718,12900,57.02,First Quarter,None,no_nets
+23055,13000,55.22,First Quarter,None,no_nets
+35719,13300,55.58,First Quarter,None,no_nets
+41814,13400,54.86,Full Moon,"Exp. Ken/Kas, & Anchor Pt.",both
+38859,13600,56.48,Full Moon,None,no_nets
+36938,13500,57.02,Full Moon,None,no_nets
+38712,13800,56.66,Full Moon,"Exp. Ken/Kas, & Anchor Pt.",drift
+25368,14000,54.5,Full Moon,None,no_nets
+24396,14200,54.5,Full Moon,"Exp. Ken/Kas, & Anchor Pt.",drift
+34137,14300,55.22,Full Moon,None,no_nets
+24163,14300,53.6,Full Moon,"Exp. Ken/Kas, & Anchor Pt.",drift
+41832,14200,55.22,Third Quarter,None,no_nets
+47067,14000,54.68,Third Quarter,None,no_nets
+62807,13700,55.4,Third Quarter,"Exp. Ken/Kas, & Anchor Pt.",drift
+99875,13300,56.66,Third Quarter,None,no_nets
+57310,12900,56.12,Third Quarter,"Exp. Ken/Kas, & Anchor Pt.",drift
+96766,12500,56.84,Third Quarter,None,no_nets
+121031,12200,57.56,Third Quarter,Drift Areas 3 & 4,drift
+46259,12100,58.1,New Moon,None,no_nets
+20052,12000,57.56,New Moon,None,no_nets
+34742,11600,56.66,New Moon,Drift Areas 3 & 4,drift
+34459,11500,56.48,New Moon,None,no_nets
+17777,11300,57.92,New Moon,None,no_nets
+16512,11200,58.28,New Moon,None,no_nets
+6708,11200,57.74,New Moon,Drift Areas 3 & 4,drift
+6810,16300,56.84,Third Quarter,All,both
+7230,16600,53.96,New Moon,None,no_nets
+6250,17000,55.94,New Moon,None,no_nets
+7740,17400,57.02,New Moon,All,both
+8472,17800,61.52,New Moon,None,no_nets
+9093,18300,59.9,New Moon,None,no_nets
+12621,18700,58.82,New Moon,None,no_nets
+21444,19100,61.7,New Moon,All,both
+15190,19400,62.96,First Quarter,None,no_nets
+10485,19500,55.94,First Quarter,None,no_nets
+14098,19500,51.8,First Quarter,"Drift Area 1, Ex Ken/Kas Sec",both
+22868,19400,51.8,First Quarter,None,no_nets
+20130,19200,51.98,First Quarter,Kasilof Section,both
+34054,19000,56.84,First Quarter,None,no_nets
+30509,18700,57.02,First Quarter,"Drift Area 1, Ex Ken/Kas Sec",both
+16420,18500,55.94,Full Moon,None,no_nets
+23285,18000,56.3,Full Moon,None,no_nets
+46059,17700,56.12,Full Moon,"Drift Area 1, Ex Ken/Kas Sec",both
+25963,17600,56.84,Full Moon,None,no_nets
+35652,17500,59,Full Moon,None,no_nets
+76650,17200,58.28,Full Moon,None,set
+76650,17200,58.28,Full Moon,None,set
+75542,16900,57.56,Full Moon,"Drift Area 1, Ex Ken/Kas Sec",both
+36107,16600,57.74,Full Moon,None,no_nets
+53574,16500,58.64,Third Quarter,None,no_nets
+80928,16200,56.3,Third Quarter,"Exp. Ken/Kas, & Anchor Pt.",both
+77996,15800,55.76,Third Quarter,None,no_nets
+98201,15300,57.38,Third Quarter,None,no_nets
+99038,15000,56.3,Third Quarter,"Exp. Ken/Kas, & Anchor Pt.",both
+75604,14600,57.02,Third Quarter,"Drift Area 1&2, Ex Ken/Kas Sec",both
+42439,14200,58.82,Third Quarter,None,no_nets
+34315,13900,57.2,New Moon,"Exp. Ken/Kas, & Anchor Pt.",both
+37711,13700,55.04,New Moon,All,both
+42084,13400,57.74,New Moon,"Exp. Ken/Kas, & Anchor Pt.",both
+55930,13300,59,New Moon,"Exp. Ken/Kas, & Anchor Pt.",both
+62687,13400,59.18,New Moon,None,no_nets
+72712,13500,58.46,New Moon,"Exp. Ken/Kas, & Anchor Pt.",drift
+76394,13700,58.64,New Moon,"Exp. Ken/Kas, & Anchor Pt.",drift
+61264,14100,57.92,First Quarter,"Exp. Ken/Kas, & Anchor Pt.",drift
+48046,14400,58.28,First Quarter,All,drift
+37042,14700,56.84,First Quarter,"Exp. Ken/Kas, & Anchor Pt.",drift
+32759,14800,58.64,First Quarter,"Exp. Ken/Kas, & Anchor Pt.",drift
+32146,14700,60.98,First Quarter,"Exp. Ken/Kas, & Anchor Pt.",drift
+25377,14600,61.52,First Quarter,All,drift
+22158,14400,63.86,First Quarter,None,no_nets
+25809,14400,62.24,First Quarter,None,no_nets
+24908,14300,61.34,Full Moon,Drift Areas 3 & 4,drift
+22220,14200,61.16,Full Moon,None,no_nets
+18146,14200,57.2,Full Moon,None,no_nets
+16763,14200,52.7,Full Moon,None,no_nets
+10131,13800,48.38,Full Moon,Drift Areas 3 & 4,drift
+1966,14900,48.56,Full Moon,None,no_nets
+3694,14500,49.28,Full Moon,All,drift
+2394,14400,49.64,Full Moon,None,no_nets
+4559,14500,50.54,Full Moon,Kasilof Section,both
+5065,14700,52.52,Full Moon,All,drift
+6505,14900,53.42,Third Quarter,None,no_nets
+7786,15300,57.56,Third Quarter,Kasilof Section,both
+5544,15900,56.12,Third Quarter,None,no_nets
+5724,16400,51.44,Third Quarter,"Drift Area 1, Ex Ken/Kas Sec",both
+3744,16800,51.08,Third Quarter,None,no_nets
+4062,17200,51.08,Third Quarter,None,no_nets
+14898,17300,51.08,New Moon,"Drift Area 1, Ex Ken/Kas Sec",both
+23394,17200,50.18,New Moon,None,no_nets
+8593,17000,50.9,New Moon,None,set
+7662,16600,51.08,New Moon,None,no_nets
+7110,16100,50.9,New Moon,"Exp. Ken/Kas, & Anchor Pt.",both
+11072,15700,51.98,New Moon,None,no_nets
+19280,15200,53.06,New Moon,None,set
+30293,14700,52.7,First Quarter,None,set
+33858,14300,50.18,First Quarter,None,no_nets
+62503,14000,52.88,First Quarter,None,set
+24618,13700,52.52,First Quarter,None,set
+33606,13700,53.42,First Quarter,"Exp. Ken/Kas, & Anchor Pt.",both
+25466,13800,55.22,First Quarter,None,no_nets
+14129,13900,54.32,First Quarter,None,no_nets
+15316,14100,53.78,First Quarter,None,set
+16043,14400,53.96,Full Moon,None,no_nets
+8923,14600,52.7,Full Moon,None,no_nets
+11482,14900,53.42,Full Moon,None,no_nets
+14879,15400,53.78,Full Moon,None,no_nets
+18579,15600,52.52,Full Moon,None,no_nets
+22734,15600,52.88,Full Moon,None,no_nets
+17967,15700,51.98,Full Moon,None,no_nets
+22848,16200,53.24,Full Moon,None,no_nets
+27423,16000,53.24,Third Quarter,None,no_nets
+31944,15800,53.6,Third Quarter,None,no_nets
+30190,15900,53.78,Third Quarter,None,no_nets
+55768,16200,52.7,Third Quarter,Area 3,drift
+11146,16100,53.78,Third Quarter,Kasilof River Special Harvest Area,both
+14372,15700,53.6,Third Quarter,"Area 3, KRSHA",both
+14265,15200,53.78,Third Quarter,Kasilof River Special Harvest Area,both
+26837,14800,54.32,New Moon,Kasilof River Special Harvest Area,both
+40040,14900,54.5,New Moon,Kasilof River Special Harvest Area,both
+16205,14700,51.8,New Moon,Drift Areas 3,drift
+6692,14500,50,New Moon,None,no_nets
+12195,14300,50,New Moon,None,no_nets
+18030,14000,51.08,New Moon,Drift Areas 3 & 4,drift
+23000,13500,50.9,New Moon,None,no_nets
+26642,13000,51.62,First Quarter,None,no_nets
+29068,12700,51.98,First Quarter,None,no_nets
+27787,12600,51.44,First Quarter,Drift Areas 3 & 4,drift
+17005,12700,51.26,First Quarter,None,no_nets
+6539,12900,51.8,First Quarter,None,no_nets
+28895,13200,50.72,First Quarter,"Drift Areas 1, 3 and 4",drift
+17189,13600,51.08,First Quarter,None,no_nets
+19651,13600,50,First Quarter,None,no_nets
+7795,13500,50.72,Full Moon,None,no_nets
+9351,13600,51.44,Full Moon,Drift Areas 3 & 4,drift
+1436,13300,51.26,Full Moon,None,no_nets
+2924,10600,49.82,First Quarter,Kasilof Section,both
+4088,11000,50,First Quarter,None,no_nets
+4880,11400,50,First Quarter,All,drift
+8652,11800,50.72,First Quarter,None,no_nets
+8833,12000,52.7,First Quarter,Kasilof Section,both
+5676,12400,52.7,First Quarter,All,drift
+9688,12700,52.7,First Quarter,None,no_nets
+12138,12800,54.32,Full Moon,Kasilof Section,both
+17946,12900,55.04,Full Moon,None,no_nets
+19932,12800,53.96,Full Moon,"Drift Area 1, Ex Ken/Kas Sec",both
+9390,12600,54.32,Full Moon,None,no_nets
+11330,12400,54.32,Full Moon,Expanded Kenai & Kasilof Sections,both
+8346,12300,54.5,Full Moon,"Drift Area 1, Ex Ken/Kas Sec",both
+6565,12700,56.66,Full Moon,None,no_nets
+9180,13300,54.86,Full Moon,Expanded Kenai & Kasilof Sections,both
+10185,13300,53.06,Third Quarter,None,no_nets
+30081,13300,53.24,Third Quarter,Expanded Kenai & Kasilof Sections,both
+30486,13500,52.16,Third Quarter,None,no_nets
+24480,14100,52.16,Third Quarter,None,no_nets
+29730,14400,51.62,Third Quarter,Expanded Kenai & Kasilof Sections,both
+27450,14400,53.42,Third Quarter,None,no_nets
+14280,14400,54.14,Third Quarter,None,no_nets
+27864,14500,55.4,New Moon,None,no_nets
+48467,14700,57.38,New Moon,None,no_nets
+59951,14700,55.04,New Moon,None,no_nets
+71904,14600,54.5,New Moon,None,no_nets
+66624,14500,55.22,New Moon,None,no_nets
+53887,14200,54.86,New Moon,None,no_nets
+56765,14000,55.22,New Moon,"Exp. Ken/Kas, & Anchor Pt.",both
+25104,13600,55.76,First Quarter,None,no_nets
+30523,13300,56.84,First Quarter,All,both
+30222,13100,57.56,First Quarter,None,no_nets
+13064,13000,56.66,First Quarter,None,no_nets
+23180,12900,55.76,First Quarter,All,both
+20405,13000,56.66,First Quarter,None,no_nets
+17137,13000,56.48,First Quarter,None,no_nets
+32544,12900,56.66,First Quarter,None,no_nets
+56283,12900,54.86,Full Moon,"Drift Area 1, Ex Ken/Kas Sec",both
+30678,13000,57.56,Full Moon,None,no_nets
+13072,13000,56.12,Full Moon,"Exp. Ken/Kas, & Anchor Pt.",both
+8620,13100,55.4,Full Moon,"Drift Area 1, Ex Ken/Kas Sec",both
+13168,13000,54.86,Full Moon,None,no_nets
+18558,12900,54.14,Full Moon,"Exp. Ken/Kas, & Anchor Pt.",both
+30833,12900,53.24,Full Moon,None,no_nets
+35256,12700,52.88,Third Quarter,"Drift Areas 1 & 3, Ex. Ken/Kas sec",both
+21046,12400,54.32,Third Quarter,None,set
+16629,12100,54.5,Third Quarter,None,no_nets
+30362,11900,54.32,Third Quarter,Drift Areas 3 & 4,drift
+33151,11500,53.6,Third Quarter,None,no_nets
+32187,11000,53.96,Third Quarter,None,no_nets
+23203,10600,53.6,Third Quarter,None,no_nets
+20586,10500,53.24,New Moon,Drift Areas 3 & 4,drift
+12087,10600,53.96,New Moon,None,no_nets
+12268,10500,53.78,New Moon,None,no_nets
+16610,10700,53.42,New Moon,Drift Areas 3 & 4,drift
+11786,17900,54.32,Third Quarter,None,no_nets
+13035,17500,53.24,Third Quarter,Kasilof Section,both
+12018,17300,53.6,Third Quarter,None,no_nets
+32648,17000,55.04,New Moon,All,drift
+35839,17000,53.06,New Moon,None,no_nets
+31464,17000,52.7,New Moon,Kasilof Section,both
+20872,16900,54.32,New Moon,All,both
+19449,16700,54.68,New Moon,None,no_nets
+22224,16400,54.5,New Moon,Expanded Kenai & Kasilof Sections,both
+31028,16400,56.84,New Moon,None,no_nets
+50695,16200,55.58,First Quarter,"Drift Area 1, Ex Ken/Kas Sec",both
+44322,16100,55.94,First Quarter,None,no_nets
+45852,16000,56.12,First Quarter,Expanded Kenai & Kasilof Sections,both
+45797,16000,56.12,First Quarter,"Drift Area 1, Ex Ken/Kas Sec",both
+50674,16100,58.82,First Quarter,"Drift Area 1, Ex Ken/Kas Sec",drift
+36338,15900,57.74,First Quarter,"Exp. Ken/Kas, & Anchor Pt.",both
+36852,15800,59.36,First Quarter,"Exp. Ken/Kas, & Anchor Pt.",both
+34753,16000,58.82,First Quarter,All,both
+18300,16400,57.74,Full Moon,"Exp. Ken/Kas, & Anchor Pt.",both
+15046,16700,56.3,Full Moon,None,no_nets
+27852,16800,56.84,Full Moon,"Exp. Ken/Kas, & Anchor Pt.",both
+40031,17200,59.54,Full Moon,"Exp. Ken/Kas, & Anchor Pt.",drift
+52398,17500,59.36,Full Moon,"Exp. Ken/Kas, & Anchor Pt.",both
+13740,17800,55.22,Full Moon,"Exp. Ken/Kas, & Anchor Pt.",both
+21918,17800,56.84,Full Moon,All,both
+20118,17700,56.48,Third Quarter,None,no_nets
+17389,17500,56.48,Third Quarter,None,no_nets
+34610,17500,57.38,Third Quarter,"Exp. Ken/Kas, & Anchor Pt.",both
+15556,17500,57.02,Third Quarter,None,no_nets
+24077,17700,55.76,Third Quarter,None,no_nets
+35248,17500,55.94,Third Quarter,None,no_nets
+52674,17400,57.02,Third Quarter,"Exp. Ken/Kas, & Anchor Pt.",both
+27678,17300,56.66,New Moon,None,no_nets
+37554,17000,55.4,New Moon,"Exp. Ken/Kas, & Anchor Pt.",both
+44055,16800,55.4,New Moon,All,drift
+30402,17100,54.5,New Moon,None,set
+22968,17400,54.14,New Moon,"Exp. Ken/Kas, & Anchor Pt.",drift
+24244,17900,52.7,New Moon,"Exp. Ken/Kas, & Anchor Pt.",both
+24313,18300,52.52,New Moon,All,drift
+24556,18600,52.88,New Moon,"Exp. Ken/Kas, & Anchor Pt.",both
+24225,18500,53.06,First Quarter,None,no_nets
+24066,18200,52.52,First Quarter,Drift Areas 3 & 4,drift
+25061,18000,53.78,First Quarter,None,no_nets
+26637,17700,54.5,First Quarter,None,no_nets
+25645,17600,53.6,First Quarter,None,no_nets
+18338,17700,53.78,First Quarter,Drift Areas 3 & 4,drift
+15396,17700,54.86,First Quarter,None,no_nets
+8383,17800,54.32,First Quarter,None,no_nets
+8209,17900,53.96,Full Moon,Drift Areas 3 & 4,drift
+7359,17800,53.6,Full Moon,None,no_nets
+4880,14100,53.24,Full Moon,None,no_nets
+5850,14300,51.44,Full Moon,Kasilof Section,both
+7658,14400,52.34,Full Moon,None,no_nets
+7398,14600,54.32,Full Moon,Kasilof Section,both
+8592,15000,53.24,Full Moon,None,no_nets
+11294,15400,53.24,Full Moon,All,both
+13287,16000,52.34,Full Moon,Kasilof River Special Harvest Area,both
+12840,16300,49.82,Third Quarter,Kasilof River Special Harvest Area,both
+22770,16200,49.82,Third Quarter,Drift Area 1 & Expanded Corridor,both
+15587,15900,52.16,Third Quarter,Kasilof River Special Harvest Area,both
+12135,15500,51.62,Third Quarter,Expanded Kenai & Kasilof Sections,both
+12373,15300,52.52,Third Quarter,Kasilof River Special Harvest Area,both
+20172,15100,55.4,Third Quarter,Kasilof River Special Harvest Area,both
+24744,15000,53.96,Third Quarter,Expanded Kenai & Kasilof Sections,both
+15148,14600,53.42,New Moon,None,set
+18114,14600,53.24,New Moon,"Exp. Ken/Kas, & Anchor Pt.",both
+17529,14600,51.26,New Moon,Kasilof River Special Harvest Area,both
+20009,14700,50.72,New Moon,Kasilof River Special Harvest Area,both
+49158,14800,50.9,New Moon,None,set
+53600,14900,52.34,New Moon,"Drift Area 1, Ex. Ken/Kas & AP sec",both
+32547,14900,52.52,New Moon,Kasilof River Special Harvest Area,both
+27262,14700,52.88,New Moon,Kasilof River Special Harvest Area,both
+75150,14800,54.32,First Quarter,"Exp. Ken/Kas, & Anchor Pt.",both
+57280,14600,54.32,First Quarter,None,no_nets
+72100,14300,54.5,First Quarter,"Exp. Ken/Kas, & Anchor Pt.",both
+66442,14400,54.14,First Quarter,Kasilof River Special Harvest Area,both
+49749,14400,54.14,First Quarter,"Drift Area 1, Ex. Ken/Kas & AP sec",both
+58985,14400,56.3,First Quarter,Kasilof River Special Harvest Area,both
+41620,14500,56.3,First Quarter,Kasilof River Special Harvest Area,both
+34791,14400,55.22,First Quarter,"Exp. Ken/Kas, & Anchor Pt.",both
+21565,14100,56.12,Full Moon,Kasilof River Special Harvest Area,both
+42730,13800,58.28,Full Moon,Kasilof River Special Harvest Area,both
+35975,13500,58.82,Full Moon,Kasilof River Special Harvest Area,both
+24064,13200,59,Full Moon,All,both
+21743,13000,58.28,Full Moon,None,no_nets
+48318,12900,59.72,Full Moon,"Exp. Ken/Kas, & Anchor Pt.",both
+43038,12700,58.82,Third Quarter,All,both
+43429,12500,60.08,Third Quarter,"Exp. Ken/Kas, & Anchor Pt.",drift
+46631,12300,59.54,Third Quarter,All,both
+28866,12300,58.64,Third Quarter,"Exp. Ken/Kas, & Anchor Pt.",both
+23899,12500,56.84,Third Quarter,All,both
+36822,12300,57.02,Third Quarter,None,no_nets
+32700,12000,56.84,Third Quarter,"Exp. Ken/Kas, & Anchor Pt.",both
+30411,11800,57.02,Third Quarter,All,both
+35817,11500,57.2,New Moon,None,no_nets
+34401,11400,57.02,New Moon,None,no_nets
+36221,11300,56.66,New Moon,None,no_nets
+28851,11300,57.02,New Moon,Drift Areas 3 & 4,drift
+20370,11400,56.48,New Moon,None,no_nets
+32591,11500,54.68,New Moon,None,no_nets
+42023,11400,56.3,New Moon,Drift Areas 3 & 4,drift
+22582,11300,55.94,New Moon,None,no_nets
+19153,11200,56.66,First Quarter,None,no_nets
+24346,11100,55.04,First Quarter,None,no_nets
+26910,10900,53.96,First Quarter,Drift Areas 3 & 4,drift
+23109,10700,54.5,First Quarter,None,no_nets
+13424,10500,56.3,First Quarter,None,no_nets
+10392,10900,52.34,New Moon,None,no_nets
+9240,10900,52.7,New Moon,None,no_nets
+10794,10900,52.52,New Moon,All,both
+9288,11000,52.16,New Moon,None,no_nets
+11574,11200,55.76,First Quarter,Kasilof Section,both
+29490,11400,57.38,First Quarter,None,no_nets
+29052,11700,55.58,First Quarter,Kasilof Section,both
+16872,12000,54.5,First Quarter,None,no_nets
+24201,12100,52.7,First Quarter,Expanded Kenai & Kasilof Sections,both
+20312,12400,53.24,First Quarter,Drift Area 1 & Expanded Corridor,drift
+12606,13400,52.7,First Quarter,Expanded Kenai & Kasilof Sections,drift
+23779,14400,53.06,Full Moon,Drift Area 1 & Expanded Corridor,both
+31889,14900,52.88,Full Moon,Expanded Kenai & Kasilof Sections,drift
+23118,15500,53.42,Full Moon,Drift Area 1 & Expanded Corridor,drift
+23863,16000,53.42,Full Moon,Expanded Kenai & Kasilof Sections,both
+20934,16200,53.06,Full Moon,Kasilof River Special Harvest Area,both
+33144,16200,54.14,Full Moon,Kasilof River Special Harvest Area,both
+39024,15800,56.66,Third Quarter,"Exp. Ken/Kas, & Anchor Pt.",both
+16608,15200,54.14,Third Quarter,Kasilof River Special Harvest Area,both
+34104,14700,52.16,Third Quarter,Kasilof River Special Harvest Area,both
+63954,14200,53.06,Third Quarter,Drift Area 1 & Expanded Corridor,both
+44241,13700,53.24,Third Quarter,Kasilof River Special Harvest Area,both
+37492,13400,52.88,Third Quarter,Kasilof River Special Harvest Area,both
+37812,13400,55.04,Third Quarter,"Exp. Ken/Kas, & Anchor Pt.",both
+29844,13200,54.32,Third Quarter,Kasilof River Special Harvest Area,both
+32013,13200,54.32,New Moon,Kasilof River Special Harvest Area,both
+22073,12800,56.3,New Moon,Kasilof River Special Harvest Area,both
+31590,12500,57.38,New Moon,Kasilof River Special Harvest Area,both
+38565,12300,56.84,New Moon,Kasilof River Special Harvest Area,both
+58024,12100,57.74,New Moon,Kasilof River Special Harvest Area,both
+66786,11900,58.1,New Moon,"Exp. Ken/Kas, & Anchor Pt.",drift
+35535,11800,56.48,New Moon,Kasilof River Special Harvest Area,both
+33971,11700,56.12,New Moon,Kasilof River Special Harvest Area,both
+50791,11700,57.74,First Quarter,None,no_nets
+54803,11800,57.74,First Quarter,All,both
+111807,11800,57.74,First Quarter,None,no_nets
+63682,11900,57.56,First Quarter,None,set
+58124,12100,56.84,First Quarter,All,drift
+55101,12400,55.04,First Quarter,None,no_nets
+53381,13400,54.14,First Quarter,None,no_nets
+58086,14700,54.5,Full Moon,None,no_nets
+30430,15900,55.58,Full Moon,Drift Areas 3 & 4,drift
+14234,17200,55.04,Full Moon,None,no_nets
+4484,18700,54.68,Full Moon,None,no_nets
+4484,18700,54.68,Full Moon,None,no_nets
+6048,20400,54.5,Full Moon,Drift Areas 3 & 4,drift
