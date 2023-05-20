@@ -1,5 +1,8 @@
-# Team-55
+# Improved prediction of salmon runs using historical salmon and weather data to enhance business planning and resource allocation
  Team 55's group project GitHub repository for MGT 6203 (Canvas) Spring of 2023 semester.
+ 
+ ## Quick Link
+ [:bar_chart: SEE VISUALIZATION HERE ](https://public.tableau.com/app/profile/binh.vu5742/viz/Visualization_16835996323470/MainDashboard)
 
 ## Repository Structure
 Description of relevant folders
