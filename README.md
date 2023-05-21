@@ -8,7 +8,9 @@
  
   [ 📄 WRITTEN REPORT]( https://github.com/binhvu3/Salmon-Analysis/blob/main/Final%20Report/Salmon%20Prediction%20Final%20Project%20Team%2055.pdf)
 
-
+## 👓 Background/Goal
+Our goal is to see if we can create an accurate prediction model using historical fish count data and weather data from the Kenai River. 
+Creating such a tool – or better understanding of the factors that influence salmon runs would be hugely beneficial for the community, their economy, and those who depend on the salmon for financial or other reasons. 
 
 
 ## Repository Structure
