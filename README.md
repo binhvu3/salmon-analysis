@@ -15,23 +15,65 @@ Creating such a tool – or better understanding of the factors that influence s
 
 ## Repository Structure
 Description of relevant folders
-- **Code**: All of the intermediate R code files and python scripts used to clean data
-- **Data**: All data that was used for the project. The final complete dataset is fish_master_final.csv
-- **Final Code**: Contains the final, clean code files used for our analysis. Each file helps generates visuals used in the final report and explanations of code and analyses is also in the final report
-  - Data cleaning: clean_data.py, clean_nets_data.py, more_data_clean.ipynb
-  - Peak Analysis: final_peak_analysis.r
-  - EDA, Logistic Regression, Kmeans clustering: rl_eda_kmeans_logit.R
-  - Random Forest, Lasso, and Ridge Regression: advanced_regression_models.ipynb
-  - Linear Regression: final_regression_analysis.R
-  - Prediction tool GUI: LM_fish_gui.py
-- **Final Presentation Slides**: Final slides for our video
-- **Final Report**: The final report
-- **Other Resources**: Not used
-- **Progress Report**: The progress report
-- **Project Proposal**: The project proposal report
-- **Proposal Presentation**: Slides for our project proposal
-- **Visualizations**: Key visualizations for our analysis
-- requirements_python.txt & requirements_r.txt: Contains the python and R packages used in this project
+
+## Code Structure
+    .
+    ├── Code                         # All of the intermediate R code files and python scripts used to clean data
+    │   ├── LM_fish_gui.py                          
+    │   ├── bv_regression_models.ipynb               
+    │   ├── clean_data.py  
+    │   ├── clean_nets_data.py 
+    │   ├── final_regression_analysis.R 
+    │   ├── liner_regression_analysis.r
+    │   ├── more_data_clean.ipynb 
+    │   ├── peak_fish_count_analysis.r
+    │   ├── placeholder.txt 
+    │   └── rl_eda_kmeans_logit.R            
+    │
+    ├── Data                          # All data that was used for the project. The final complete dataset is fish_master_final.csv
+    │   ├── Kenai_AP_combined.csv     
+    │   ├── Kenai_Late_run_Sockeye_Fish_Counts.xls      
+    │   └── ...
+    │   
+    ├── Final Code                     # Contains the final, clean code files used for our analysis. Each file helps generates visuals used in the final report and explanations of code and analyses is also in the final report
+    │   ├── LM_fish_gui.py       
+    │   ├── advanced_regression_models.ipynb
+    │   ├── final_peak_analysis.r
+    │   ├── final_regression_analysis.R
+    │   ├── more_data_clean.ipynb
+    │   ├── placeholder.txt
+    │   └── rl_eda_kmeans_logit.R
+    │
+    ├── Final Presentation Slides      # Final slides for our video    
+    │   └── Project Report Video Presentation.pdf 
+    │
+    ├── Final Report                
+    │   └── Salmon Prediction Final Project Team 55.pdf
+    │
+    ├── Other Resources               
+    │
+    ├── Progress Report               
+    │   └── Salmon Prediction Project Report.docx
+    │
+    ├── Project Proposal                          # All data that was used for the project. The final complete dataset is fish_master_final.csv
+    │   ├── Team 55 - Proposal DRAFT.docx          
+    │   └── Team 55 Proposal.pdf
+    │   
+    ├── Proposal Presentation               
+    │   └── Final Project Proposal Video Presentation.pptx
+    │
+    ├── Visualizations            
+    │   ├── bv_dataset_visualization.ipynb       
+    │   ├── corrplot2.png
+    │   ├── drift_location.png
+    │   ├── fish-boxplot.png
+    │   ├── fish_count_peaks.png
+    │   └── outcome_distr.png
+    │
+    ├── requirements_python.txt                   # Contains the python and R packages used in this project
+    │
+    ├── requirements_r.txt
+    └── ...
 
  # 📔 Opening Jupyter Notebook
  In order to run Jupyter Notebook that is found in this Repo, please install Jupyter Notebook with R kernel. (Steps are below)
